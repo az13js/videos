@@ -12,3 +12,4 @@ fi
 cd /opt/python_tools/baidu_ai/
 # source venv/bin/activate
 python bililike.py -f "$work_dir" -o "$work_dir/like"
+cd "$work_dir"

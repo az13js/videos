@@ -1,6 +1,10 @@
 'use strict';
 
 const VideoInfoDataUtils = {
+    _imageUrlAndBlobCache: new Map(), // Key 是图片 URL，Value 是 Blob 对象
+    _videoDescriptionCache: new Map(), // Key 是视频 URL，Value 是视频描述（Value有可能是null）
+    _authorDescriptionCache: new Map(), // Key 是作者 URL，Value 是作者描述
+
     /**
      * 获取指定 URL 的 HTML 内容
      * 遵循防御性编程、单一职责与工程化思维
@@ -120,6 +124,9 @@ const VideoInfoDataUtils = {
 
     // 使用Canvas获取图片Blob - 修复0字节问题
     getImageBlob(url) {
+        if (this._imageUrlAndBlobCache.has(url)) {
+            return Promise.resolve(this._imageUrlAndBlobCache.get(url));
+        }
         return new Promise((resolve, reject) => {
             const img = new Image();
             img.crossOrigin = 'anonymous';
@@ -134,6 +141,7 @@ const VideoInfoDataUtils = {
 
                     canvas.toBlob((blob) => {
                         if (blob) {
+                            VideoInfoDataUtils._imageUrlAndBlobCache.set(url, blob);
                             resolve(blob);
                         } else {
                             reject(new Error('Canvas toBlob failed'));
@@ -150,6 +158,19 @@ const VideoInfoDataUtils = {
             };
 
             img.src = url;
+        });
+    },
+
+    async blobToBase64(blob) {
+        return new Promise((resolve, reject) => {
+            const reader = new FileReader();
+            reader.onload = function() {
+                resolve(reader.result);
+            };
+            reader.onerror = function(err) {
+                reject(err);
+            };
+            reader.readAsDataURL(blob);
         });
     },
 
@@ -193,12 +214,15 @@ const VideoInfoDataUtils = {
     },
 
     async fetchAuthorDescription(authorPageUrl) {
-        let authorDescription = '';
+        if (this._authorDescriptionCache.has(authorPageUrl)) {
+            return this._authorDescriptionCache.get(authorPageUrl);
+        }
         try {
             let authorPageHTML = await this.fetchHtmlContent(authorPageUrl, 30000);
             if (authorPageHTML) {
-                authorDescription = this.extractTextBetween(authorPageHTML, '，第一时间了解UP主动态。', '"/>');
+                let authorDescription = this.extractTextBetween(authorPageHTML, '，第一时间了解UP主动态。', '"/>');
                 if (authorDescription) {
+                    this._authorDescriptionCache.set(authorPageUrl, authorDescription);
                     return authorDescription;
                 }
             }
@@ -209,23 +233,28 @@ const VideoInfoDataUtils = {
     },
 
     async fetchVideoDescription(videoUrl) {
-        let videoDescription = '';
+        if (this._videoDescriptionCache.has(videoUrl)) {
+            return this._videoDescriptionCache.get(videoUrl);
+        }
         try {
             let videoPageHTML = await this.fetchHtmlContent(videoUrl, 30000);
             if (videoPageHTML) {
-                videoDescription = this.extractTextBetween(videoPageHTML, ',"desc":"', '","desc_v2"');
-                if (videoDescription && null !== videoDescription && '-' !== videoDescription && '' !== videoDescription) {
-                    // 这个描述里面有\n和HTML转义，这里尝试解除
-                    let t = JSON.parse(`"${videoDescription}"`);
-                    if (t) {
-                        videoDescription = t;
+                let videoDescription = this.extractTextBetween(videoPageHTML, ',"desc":"', '","desc_v2"');
+                if (videoDescription) {
+                    if ('-' !== videoDescription && '' !== videoDescription) {
+                        // 这个描述里面有\n和HTML转义，这里尝试解除
+                        let t = JSON.parse(`"${videoDescription}"`);
+                        if (t) {
+                            videoDescription = t;
+                        }
+                        t = this.decodeHtmlEntities(videoDescription);
+                        if (t && t !== '') {
+                            videoDescription = t;
+                        }
                     }
-                    t = this.decodeHtmlEntities(videoDescription);
-                    if (t && t !== '') {
-                        videoDescription = t;
-                    }
-                    return videoDescription;
                 }
+                this._videoDescriptionCache.set(videoUrl, videoDescription);
+                return videoDescription;
             }
         } catch (error) {
             console.error('获取视频页面失败:', videoUrl, error);
@@ -253,8 +282,8 @@ const VideoInfoDataUtils = {
         for (let i = 0; i < videos.length; i++) {
             const video = videos[i];
             try {
-                // 这三个函数耗时较长，而且有可能获取失败，所以这里要处理异常
                 const blob = await this.getImageBlob(video.imageUrl);
+
                 let videoDescription = await this.fetchVideoDescription(video.videoUrl);
                 if (!videoDescription) { videoDescription = ''; }
 

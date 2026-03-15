@@ -30,7 +30,8 @@ def judge(json_str: str) -> bool:
         '账号信息中备注了商务或合作字样',
         '简介里写合作V或合作v的',
         '简介里备注商务微信的',
-        '要求/建议去特定邮箱投稿/公众号等Bilibili以外渠道投稿'
+        '要求/建议去特定邮箱投稿/公众号等Bilibili以外渠道投稿',
+        '视频涉及B站AI视频创作大赛'
     ]
     for attr in attr_list:
         prompt = f'''

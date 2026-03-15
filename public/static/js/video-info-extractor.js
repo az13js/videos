@@ -80,7 +80,7 @@ function extractVideoInfo(customConfig = {}, rootElement = document) {
       // 获取图片地址
       const src = img.getAttribute('src');
       if (src && src.trim() !== '') {
-        const trimmedSrc = src.trim();
+        let trimmedSrc = src.trim();
         if (trimmedSrc.startsWith('//')) {
           trimmedSrc = window.location.protocol + trimmedSrc;
         }

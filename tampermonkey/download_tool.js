@@ -10,7 +10,7 @@
 // @match        *://www.bilibili.com/?*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=bilibili.com
 // @grant        none
-// @require      https://example.cn/dict/jszip.min.js
+// @require      http://localhost/static/js/jszip.min.js
 // ==/UserScript==
 
 (function() {
@@ -30,9 +30,9 @@
     let isDownloading = false;
     const downloadButton = document.createElement('button');
 
-    addScript('https://example.cn/dict/video-info-extractor.js', () => {
-        addScript('https://example.cn/dict/neodragvanilla.min.js', () => {
-            addScript('https://example.cn/dict/video-info-data-utils.js', () => {
+    addScript('http://localhost/static/js/video-info-extractor.js', () => {
+        addScript('http://localhost/static/js/neodragvanilla.min.js', () => {
+            addScript('http://localhost/static/js/video-info-data-utils.js', () => {
                 downloadButton.textContent = '下载视频信息';
                 downloadButton.style.position = 'fixed';
                 downloadButton.style.top = '10px';

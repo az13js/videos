@@ -1,7 +1,5 @@
 <?php
-function saveLog(string $msg): void {
-    file_put_contents(__DIR__ . '/../api_event.log', date('Y-m-d H:i:s') . ' ' . $msg . "\n", FILE_APPEND|LOCK_EX);
-}
+require_once __DIR__ . '/../common.php';
 
 // 校验请求方式必须是POST
 if ($_SERVER['REQUEST_METHOD'] != 'POST') {
@@ -91,91 +89,13 @@ foreach ($json['videos'] as $video) {
     }
 }
 
-$sqlite3dbPath = __DIR__ . '/../videos.db';
-$imageSaveDir = __DIR__ . '/static/images';
-if (!is_dir($imageSaveDir)) {
-    saveLog('图片保存目录不存在: ' . $imageSaveDir . ' 自动创建');
-    mkdir($imageSaveDir);
-}
-
-function initDb(string $sqlite3dbPath): void {
-    if (!file_exists($sqlite3dbPath)) {
-        saveLog('数据库文件不存在: ' . $sqlite3dbPath . ' 自动创建');
-        $db = new PDO('sqlite:' . $sqlite3dbPath);
-        $result = $db->exec('CREATE TABLE videos (id INTEGER PRIMARY KEY AUTOINCREMENT, title TEXT NOT NULL, videoUrl TEXT NOT NULL, imageUrl TEXT NOT NULL, imagePath TEXT NOT NULL, description TEXT NOT NULL, authorName TEXT NOT NULL, authorDescription TEXT NOT NULL, authorPageUrl TEXT NOT NULL, createdAt DATETIME DEFAULT CURRENT_TIMESTAMP)');
-        if ($result === false) {
-            saveLog('数据库创建失败: ' . $sqlite3dbPath);
-            return;
-        }
-        // 为 videoUrl 添加唯一索引加快存储和查询
-        $result = $db->exec('CREATE UNIQUE INDEX videoUrlIndex ON videos (videoUrl)');
-        if ($result === false) {
-            saveLog('索引videoUrlIndex创建失败: ' . $sqlite3dbPath);
-            return;
-        }
-
-        // 时间索引
-        $result = $db->exec('CREATE INDEX createdAtIndex ON videos (createdAt)');
-        if ($result === false) {
-            saveLog('索引createdAtIndex创建失败: ' . $sqlite3dbPath);
-            return;
-        }
-    }
-}
-
-function saveImage(string $imageBlobBase64, string $imageSaveDir): ?string {
-    // 返回保存路径
-    $imagePath = __DIR__ . '/static/images/' . uniqid() . '.png';
-
-    $imageBlobBase64 = substr($imageBlobBase64, strpos($imageBlobBase64, ',') + 1);
-    $imageBlob = base64_decode($imageBlobBase64);
-    if (substr($imageBlob, 1, 3) != 'PNG') {
-        $hexValue = bin2hex(substr($imageBlob, 1, 3));
-        saveLog('图片格式错误:必须是PNG格式,实际：' . $hexValue);
-        return null;
-    }
-    file_put_contents($imagePath, $imageBlob);
-    return $imagePath;
-}
-
-function saveOneVideo(array $video, string $sqlite3dbPath, string $imageSaveDir): void {
-    $imagePath = saveImage($video['imageBase64'], $imageSaveDir);
-    if ($imagePath === null) {
-        saveLog('图片保存失败: ' . $imagePath);
-        return;
-    }
-
-    initDb($sqlite3dbPath);
-    $db = new PDO('sqlite:' . $sqlite3dbPath);
-    if ($db === false) {
-        saveLog('数据库打开失败: ' . $sqlite3dbPath);
-        return;
-    }
-    $stmt = $db->prepare('INSERT INTO videos (title, videoUrl, imageUrl, imagePath, description, authorName, authorDescription, authorPageUrl) VALUES (:title, :videoUrl, :imageUrl, :imagePath, :description, :authorName, :authorDescription, :authorPageUrl)');
-    if ($stmt === false) {
-        saveLog('数据库语句INSERT INTO准备失败: ' . $sqlite3dbPath);
-        return;
-    }
-    $result = $stmt->execute([
-        ':title' => $video['title'],
-        ':videoUrl' => $video['videoUrl'],
-        ':imageUrl' => $video['imageUrl'],
-        ':imagePath' => $imagePath,
-        ':description' => $video['description'],
-        ':authorName' => $video['authorName'],
-        ':authorDescription' => $video['authorDescription'],
-        ':authorPageUrl' => $video['authorPageUrl'],
-    ]);
-    if ($result === false) {
-        saveLog('数据库语句INSERT INTO执行失败: ' . $sqlite3dbPath);
-        return;
-    }
-    $stmt = null;
-    $db = null;
+if (!is_dir(IMAGE_SAVE_DIR)) {
+    saveLog('图片保存目录不存在: ' . IMAGE_SAVE_DIR . ' 自动创建');
+    mkdir(IMAGE_SAVE_DIR);
 }
 
 foreach ($json['videos'] as $video) {
-    saveOneVideo($video, $sqlite3dbPath, $imageSaveDir);
+    saveVideo($video);
 }
 
 saveLog('保存成功, 记录数：' . count($json['videos']));

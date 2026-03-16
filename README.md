@@ -1,958 +1,326 @@
 # Bilibili推荐的视频
 
-## [嘟噜噜嘟嘟～](https://www.bilibili.com/video/BV1HuwxzFEvZ)
+## [青年大学习：如何降低话费](https://www.bilibili.com/video/BV1ARwuzsEG9)
 
-![嘟噜噜嘟嘟～](images/0gkvw3g6.png)
+![青年大学习：如何降低话费](images/5nvo148e.png)
 
-UP： [清清日常无语](https://space.bilibili.com/378970197)，简介：
-
-```
-谢谢喜欢
-别在评论区拉踩 我真求你了
-造谣/搬运替我挡灾^_^
-```
-
-## [从黑户到奢侈帝国，她骗财阀，骗警察，骗黑道！2026烧脑爆剧《莎拉的真伪人生》](https://www.bilibili.com/video/BV1dKwbzZEsc)
-
-![从黑户到奢侈帝国，她骗财阀，骗警察，骗黑道！2026烧脑爆剧《莎拉的真伪人生》](images/mh45zx7x.png)
-
-```
-她说她是金美静的时候，我整个人麻了！！！····
-```
-
-UP： [正经的瓜皮酱](https://space.bilibili.com/19591155)，简介：
-
-```
- 看不懂的电影告诉我，我给你强行解释一波~~~ 
-```
-
-## [【日车宽见】“至少，我要睁开眼睛。”](https://www.bilibili.com/video/BV1iVPfzpEYT)
-
-![【日车宽见】“至少，我要睁开眼睛。”](images/qlonpj5y.png)
-
-```
-日烧，刚看完第九集的观后感，随便剪剪，想到哪剪哪
-BGM：SLOW DANCING IN THE DARK
--------------------------------
-一些灵感来源：@卡夫卡永不加班  的（BV1ACPBzGEXu）与 @乐马mamma_Edit  的（BV11Lz2BKErt）这两位老师的作品，非常非常非常非常厉害（膜拜）
-```
-
-UP： [释意_](https://space.bilibili.com/341943141)，简介：
-
-```
-浮生太短，记得微笑
-```
-
-## [MC和迷你世界跨平台联机视频下架后续](https://www.bilibili.com/video/BV164wszZE2o)
-
-![MC和迷你世界跨平台联机视频下架后续](images/ss56dcbj.png)
-
-```
-大家有什么想说的，可以@迷你世界
-```
-
-UP： [是只耶吧](https://space.bilibili.com/1378292318)，简介：
-
-```
-（
-```
-
-## [【本家投稿】くうになる / MIMI feat. 初音ミク&可不【Official Video】](https://www.bilibili.com/video/BV1CCc6zuEYk)
-
-![【本家投稿】くうになる / MIMI feat. 初音ミク&可不【Official Video】](images/rokk6s0c.png)
-
-```
-这是《Kuu ni Naru》的官方影片！请欣赏。
-
-MIMI X→ https://x.com/mimi_3mi
-streaming→ https://linkco.re/PUs9R3p3
-
-感谢中国的每一位朋友聆听我们的音乐！
-```
-
-UP： [MIMI_music](https://space.bilibili.com/3632315527858571)，简介：
-
-```
-大家好！这里是MIMI的官方频道。感谢中国的每一位粉丝！
-```
-
-## [高中时和女同学放风筝](https://www.bilibili.com/video/BV1SucDzGENH)
-
-![高中时和女同学放风筝](images/orjdmz5f.png)
-
-UP： [布丁的猫meme](https://space.bilibili.com/11706381)，简介：
-
-```
-大家好，我是布丁的猫meme，我来啦
-```
-
-## [自制高能打斗系列(13)](https://www.bilibili.com/video/BV1efwczUEfM)
-
-![自制高能打斗系列(13)](images/3z4qfhry.png)
-
-UP： [流浪画师A](https://space.bilibili.com/317521587)，简介：
-
-```
-某yin同名，作品原创，请勿搬运
-```
-
-## [哥布林穿搭改造：她嫌短我嫌紧，我好崩溃啊！](https://www.bilibili.com/video/BV1RzcDzQEWN)
-
-![哥布林穿搭改造：她嫌短我嫌紧，我好崩溃啊！](images/ybudp6nw.png)
-
-```
-我还是低估了那个穿搭的难度了，对于我一个哥布林来说，天天在洞穴当中，我一直以为就是出去随便找个博主，然后学习一下他们的穿搭就好了。唉，这个比想象中的难太多了，首先搭配啊，然后衣服款式啊，衣服面料啊，然后尤其是在我这种100块钱衣服对我来说都算是比较贵的价格，以及家里面大部分女生也没有买过男装的这种情况下面。太难了！！！
-```
-
-UP： [奇奇妙妙的类人生物](https://space.bilibili.com/3546959461746781)，简介：
-
-```
-所有视频内容纯属虚构
-没有一件事情是真的
-所有视频内容都是up婆主鬼脑想象
-简介绝对是真实发言，绝对没有被人掐着脖子威胁
-```
-
-## [央美一等奖二维动画作品——《谱》](https://www.bilibili.com/video/BV1ezcDzXEUN)
-
-![央美一等奖二维动画作品——《谱》](images/oj1exj5x.png)
-
-```
-央美一等奖二维动画作品——《谱》
-动画讲诉的是八分音符和十六分音符的冒险故事
-声音，画面和剧情是构成画面的要素，时间和空间
-是串联要素的灵魂
-这个动画所要传达的不仅仅是剧情的跌宕起伏亦或
-是画风的新颖，在于声音不再是“配音”而是叙事
-本身，画面不再是“剧本的翻译”而是叙事本身，
-剧本不再是孤立的剧本而是融入画面融入声音从制
-作到观看同步输出。全片一镜到底，对应谱连续性
-的特点。
-```
-
-UP： [央美盒](https://space.bilibili.com/1165452545)，简介：
-
-```
-央美动画专业在读，主流平台都有账号，头像一样的
-```
-
-## [达尔文重生回来，看到这只蜗牛，可能当场撕掉进化论！](https://www.bilibili.com/video/BV1JQPfz4ELE)
-
-![达尔文重生回来，看到这只蜗牛，可能当场撕掉进化论！](images/38jhs3c0.png)
-
-```
-达尔文重生回来，看到这只蜗牛，可能当场撕掉进化论！
-```
-
-UP： [沧笙4](https://space.bilibili.com/3706941748546151)，简介：
-
-```
-有想看的生物，欢迎在评论区留言哦
-```
-
-## [【补帧第6期】纵享丝滑~~](https://www.bilibili.com/video/BV1WNNGzKEnd)
-
-![【补帧第6期】纵享丝滑~~](images/b695y5gv.png)
-
-```
-开启1080p60帧观看更好哦
-这次补的还是很可以的
-补了30多分钟
-```
-
-UP： [NachoNeko123](https://space.bilibili.com/1901403851)，简介：
-
-```
-什么都发，up上学回来了！
-```
-
-## [循环歌单|【莫问归期DJ】|"【匡扶汉室の小曲】"](https://www.bilibili.com/video/BV1zTcSzREjP)
-
-![循环歌单|【莫问归期DJ】|"【匡扶汉室の小曲】"](images/tfjzqarp.png)
-
-```
-木偶制作：我自己
-```
-
-UP： [蛋某人音乐](https://space.bilibili.com/423517587)，简介：
-
-```
-路就在脚下
-```
-
-## [雨 爱](https://www.bilibili.com/video/BV13jwJzcEjg)
-
-![雨 爱](images/0ramvstb.png)
-
-UP： [鸡鸡·夫斯基](https://space.bilibili.com/548824)，简介：
-
-```
-呀，快点变大便！
-```
-
-## [乱世狠人，再造中华！篡权上位的赵匡胤，为何地位这么高？](https://www.bilibili.com/video/BV13swWz3ETt)
-
-![乱世狠人，再造中华！篡权上位的赵匡胤，为何地位这么高？](images/0r908vso.png)
-
-```
-五代乱世，到底有多可怕？
-人命像草，城池说屠就屠，连吃人都能被写进历史
-就在这样的时代里，一个行伍出身的年轻人，亲眼见证了皇帝清洗武将、军头兵变夺权
-也一步步从军中小人物，变成了改写天下格局的人
-他就是赵匡胤
-这期视频，我们就从郭威之乱讲起
-看赵匡胤如何在五代里的血雨腥风里参军、立功、上位
-最后一路走到陈桥兵变，穿上黄袍，建立大宋
-但问题也来了：他到底是终结乱世的英雄，还是另一个更聪明的掌权者？
-也许看完你会发现，宋朝的底色，从一开始就已经写好了
-```
-
-UP： [啊粥粥啊粥](https://space.bilibili.com/8096990)，简介：
-
-```
-真理的反面，是另一个真理（INTP/戊辰/机梁）
-```
-
-## [“割地、赔款”！伊朗的停火条件万税爷能忍？](https://www.bilibili.com/video/BV1wmwxzPEYr)
-
-![“割地、赔款”！伊朗的停火条件万税爷能忍？](images/5rtwwll4.png)
-
-UP： [麻薯波比呀](https://space.bilibili.com/703186600)，简介：
-
-```
-你装模作样的戴我的九筒做什么？
-```
-
-## [我怀疑我是一个游戏角色！](https://www.bilibili.com/video/BV1T8cBz3E3n)
-
-![我怀疑我是一个游戏角色！](images/mms3jmzw.png)
-
-```
-感觉这个世界不真实！
-
-本期视频采用Canon EOS R5 Mark II拍摄
-采用镜头：
-EF 8-15mm f/4L USM
-RF24mm F1.4 L VCM
-RF35mm F1.4 L VCM
-RF50mm F1.4 L VCM
-```
-
-UP： [佳能同学会](https://space.bilibili.com/90684627)，简介：
-
-```
-QAQ大厂新媒体真滴太难做了！
-```
-
-## [【本家投稿】サイエンス / MIMI feat. 重音テトSV【Official Video】](https://www.bilibili.com/video/BV1rmc6ziEHN)
-
-![【本家投稿】サイエンス / MIMI feat. 重音テトSV【Official Video】](images/6m13n7cx.png)
-
-```
-这是官方的「科学」影片！请欣赏！
-
-streaming→https://linkco.re/zsdd3h9Y
-MIMI X → https://x.com/mimi_3mi
-
-感谢中国的每一位朋友聆听我们的音乐！
-```
-
-UP： [MIMI_music](https://space.bilibili.com/3632315527858571)，简介：
-
-```
-大家好！这里是MIMI的官方频道。感谢中国的每一位粉丝！
-```
-
-## [《绝区零》2.7版本PV | 英雄不死于往昔](https://www.bilibili.com/video/BV15pwxznEX3)
-
-![《绝区零》2.7版本PV | 英雄不死于往昔](images/0mxvk9gh.png)
-
-```
-「空洞毁陷城市，城市诞生英雄！」
-「可笑。空洞诞生的从来都不是英雄，而是最真实的欲望。」
-「…让我们来玩点更适合空洞的游戏，怎么样？」
-
-感谢您参加「空洞英雄」比赛，预祝您取得好成绩！
-
-—— 欢迎来到新艾利都！——
-▼ 2.7版本「英雄不死于往昔」将于3月24日上线！
-bilibili安卓端下载地址：https://www.biligame.com/detail/?id=108434
-bilibiliPC端下载地址：https://www.biligame.com/detail/?id=111210
-```
-
-UP： [绝区零](https://space.bilibili.com/1636034895)，简介：
-
-```
-世界全剧终，欢迎来到新艾利都！
-```
-
-## [他好色残暴想卖首都，但他依然是率真的阳光开朗大男孩【狮心王理查II】](https://www.bilibili.com/video/BV1eYwnzMEJY)
-
-![他好色残暴想卖首都，但他依然是率真的阳光开朗大男孩【狮心王理查II】](images/d24epoxm.png)
-
-```
-今天我们继续来讲英国历史上最不英国、最复杂却同时又最有人格魅力的国王——狮心王理查！
-```
-
-UP： [卢格杜努姆的奥古斯丁](https://space.bilibili.com/1346921)，简介：
-
-```
-中世纪史专业 主要研究教会史 同时更新其他欧洲历史类视频
-```
-
-## [首款侵入式脑机接口医疗器械获批上市](https://www.bilibili.com/video/BV1UKcUziEfU)
-
-![首款侵入式脑机接口医疗器械获批上市](images/yqstrwhe.png)
-
-UP： [央视新闻](https://space.bilibili.com/456664753)，简介：
-
-```
-中央广播电视总台央视新闻官方账号
-```
-
-## [熊大快跑之卡密月跑](https://www.bilibili.com/video/BV1mjPDzEESZ)
-
-![熊大快跑之卡密月跑](images/2gxreye1.png)
-
-UP： [米国大竹筒](https://space.bilibili.com/1671191043)，简介：
-
-```
-猎奇区日更UP主
-```
-
-## [赵匡胤在《沁园春》里，真的是凑数的吗？](https://www.bilibili.com/video/BV1fbcDzbE8c)
-
-![赵匡胤在《沁园春》里，真的是凑数的吗？](images/okwn6xhl.png)
-
 ```
-从安史之乱到五代十国，时代等了200年，才等到他！
+新人UP有说的不好的请大家多包涵~
+欢迎在评论区继续补充
 ```
 
-UP： [-古人云-](https://space.bilibili.com/265589608)，简介：
+UP： [咕噜耄](https://space.bilibili.com/2930404)，简介：
 
 ```
-华夏先辈，在线整活。谈笑古今，岂不快哉。
+一只在社会摸爬滚打的耄耋
+分享点你可能用到的知识
+希望能帮到~
 ```
 
-## [在大学被拽入后室的可能性很小但并不为零！mv半还原翻跳 【Brain Rot｜脑蚀】](https://www.bilibili.com/video/BV1x2wEzDEQy)
+## [叫魂扎小人 正月剃头死舅舅 中国人到底怕什么？](https://www.bilibili.com/video/BV1guwsz3Eob)
 
-![在大学被拽入后室的可能性很小但并不为零！mv半还原翻跳 【Brain Rot｜脑蚀】](images/2cmhnm2w.png)
+![叫魂扎小人 正月剃头死舅舅 中国人到底怕什么？](images/svqzbsvd.png)
 
 ```
-四个小时完成了学舞找景录舞剪辑堪称史上最快。。
-其实还是学校的景随便一想就有好多符合的！
-超级喜欢的一作一开始看到就想跳了啊啊啊没想到最后如此急头白脸地就弄完了
-剪辑的时候特效和滤镜也是不要钱地叠最后效果还挺好（）
+为啥正月剃头死舅舅？为啥生个小孩没屁眼是最恶毒的诅咒？
+影子、镜子、头发、指甲为啥在古人心里，总有各种神秘力量？
+天皇皇地皇皇，莫惊我家小儿郎，是巫术遗存、还是血泪教训？
+古人留下的禁忌，现实依据到底是什么？古代禁忌如何禳解？
+小鸡不吃豆，外甥打娘舅，一朝被蛇咬，处处闻啼鸟。
+一期带你了解，中国古今流传的民间禁忌！
 
-mv站内分享：BV1mNf3BREgj
-后半段参考了prs的振付！
+参考文献和资料：
+《中国禁忌简史》万建中
+《中国民间禁忌风俗》万建中
+《金枝》J.G弗雷泽
 ```
 
-UP： [愚人兔](https://space.bilibili.com/359789557)，简介：
+UP： [浪花姜](https://space.bilibili.com/102584256)，简介：
 
 ```
-✨宅舞区野生选手，叫我兔兔就好^ ^
-记录每一次舞台上的快乐！
+你最好奇的古今生活百科史 
 ```
 
-## [耗时两个月做的定格动画 …..](https://www.bilibili.com/video/BV1Xqc2zqEnv)
+## [好快！《瑞克和莫蒂》第九季来了！先行片段已发，姥爷进入全新阶段](https://www.bilibili.com/video/BV1ZWwuzyEX4)
 
-![耗时两个月做的定格动画 …..](images/ptl51mrg.png)
+![好快！《瑞克和莫蒂》第九季来了！先行片段已发，姥爷进入全新阶段](images/yn4a5jth.png)
 
 ```
-作品名称《寞》#记录艺术创作从0到1 #艺术
-#手搓定格动画
+另一个先行片段解析：https://www.bilibili.com/video/BV1LBFWzyEfs
 ```
 
-UP： [拙思-_](https://space.bilibili.com/1262729668)
+UP： [安迪视频](https://space.bilibili.com/357261525)，简介：
 
-## [【22娘×33娘】我被2233同时看上？](https://www.bilibili.com/video/BV1pQwEz7Enq)
-
-![【22娘×33娘】我被2233同时看上？](images/4phnjr9b.png)
-
-```
-我被2233同时看上？
-
-后期 夜雨星繁y
-22娘 / 33娘 CV 在下池魚
-BGM 暴飲暴食P&重音テト-うそつきマカロン (Instrumental)
-```
-
-UP： [其人](https://space.bilibili.com/20603745)，简介：
-
-```
-咕咕咕
-```
-
-## [試唱一下《浴室》還不夠好](https://www.bilibili.com/video/BV1YCN3znEeA)
-
-![試唱一下《浴室》還不夠好](images/177fsib9.png)
-
-UP： [-嘎芮-](https://space.bilibili.com/3546747672464011)，简介：
-
-```
-12歲台灣up主 愛亂唱歌
-```
-
-## [北京頂級“米其林”烤鴨，468元一只還一位難求，真的好吃嗎？](https://www.bilibili.com/video/BV1t9PNzxEfA)
-
-![北京頂級“米其林”烤鴨，468元一只還一位難求，真的好吃嗎？](images/7l57nos4.png)
-
-UP： [丹牛食走起](https://space.bilibili.com/438926406)，简介：
-
-```
-不接商單推广
-油管：丹牛食
-```
-
-## [“风信子”152毫米火炮，放平贴脸直射乌克兰T-64坦克](https://www.bilibili.com/video/BV1U3N3zGE8t)
-
-![“风信子”152毫米火炮，放平贴脸直射乌克兰T-64坦克](images/hepx79gw.png)
-
-UP： [指挥官AlexyOfficial](https://space.bilibili.com/343756207)，简介：
-
-```
-俄罗斯人道救援组织&quot;天使基金&quot;创始人,导演,武器硬核评测   Waynechen8411翻译兼运营
-```
-
-## [一人食｜拉丝番茄鸡蛋面](https://www.bilibili.com/video/BV1ujPDzJEtT)
-
-![一人食｜拉丝番茄鸡蛋面](images/f054evkl.png)
-
-UP： [咯咯哒没吃饱](https://space.bilibili.com/3690978619689356)，简介：
-
-```
-用食物治愈你的疲惫，欢迎来到我的电子小厨房。
-```
-
-## [【鸣潮小剧场】若梦](https://www.bilibili.com/video/BV1iXwczXEqL)
-
-![【鸣潮小剧场】若梦](images/x5niqk4q.png)
-
-```
-久等了，因为一些受限，最终做出来的不算是完整版。如果大家喜欢的话，之后会将完整版画完给大家~后续会恢复正常的日常小剧场更新。
-```
-
-UP： [唤林和小PK](https://space.bilibili.com/71940941)，简介：
-
-```
-尽我所能，带给你快乐～愿你健康幸福～
-```
-
-## [雪山救狐狸，但是来者不拒！【第二集】](https://www.bilibili.com/video/BV18ywpzBESA)
-
-![雪山救狐狸，但是来者不拒！【第二集】](images/hiouip1y.png)
-
-UP： [王与也行](https://space.bilibili.com/474213246)，简介：
-
-```
-私信并不常回复，还请见谅
-```
-
-## [🍬口无遮拦的爱音🍬](https://www.bilibili.com/video/BV1AbcCzjEMT)
-
-![🍬口无遮拦的爱音🍬](images/8gtsnx2y.png)
-
-UP： [快嘴摩卡酱](https://space.bilibili.com/3546834519722226)，简介：
-
-```
-随机更新，想到什么做什么！
-```
-
-## [挑战两个人只花100块在香港穷游一天！两个人爽玩一天竟然还没花完？！ft. Cici](https://www.bilibili.com/video/BV1M9cDzVEk6)
-
-![挑战两个人只花100块在香港穷游一天！两个人爽玩一天竟然还没花完？！ft. Cici](images/uisun7l5.png)
-
-UP： [社恐呆里克](https://space.bilibili.com/78021099)，简介：
-
-```
-我是社恐
-```
-
-## [“今天才发现《绝区零》有这么首对胃口的歌”！DAMIDAMI](https://www.bilibili.com/video/BV1dkcCziEiz)
-
-![“今天才发现《绝区零》有这么首对胃口的歌”！DAMIDAMI](images/hiwrfo1k.png)
-
-```
-感谢收听白熊的日推歌
-
-♫ 正在播放《DAMIDAMI》
-━─━━●──── 5:29
-◁ㅤ ㅤ❚❚ㅤㅤ ▷ㅤ
-
-歌手：Sihan/三Z-STUDIO/HOYO-MiX
-今日宜开心*
-
-图片来自：音乐封面
-*封面、歌曲仅作分享，请支持原版
-```
-
-UP： [饿了的白熊](https://space.bilibili.com/23285202)，简介：
-
-```
-音乐只是提供氛围 你听的都是自己的故事
-```
-
-## [你知道为什么唐门叫门，丐帮叫邦，华山派叫派，明教叫教吗？同样是江湖组织，门派帮教会的区别到底在哪儿？](https://www.bilibili.com/video/BV1CpcXz3EaW)
-
-![你知道为什么唐门叫门，丐帮叫邦，华山派叫派，明教叫教吗？同样是江湖组织，门派帮教会的区别到底在哪儿？](images/qdysy8hf.png)
-
-UP： [同心萌宠](https://space.bilibili.com/1712875145)，简介：
-
-```
-分享萌宠可爱瞬间
-```
-
-## [不小心告白错对象，对方还答应了自己](https://www.bilibili.com/video/BV1QZc1zPEJs)
-
-![不小心告白错对象，对方还答应了自己](images/85mcwih5.png)
-
-```
-漫画：纸袋同学的恋爱故事
-紙袋さんの恋愛事情
-作者：神春
-
-尝试着解说还不太习惯，请谅解我的口胡，还有口音等等 orz
-```
-
-UP： [意条羽](https://space.bilibili.com/22317671)，简介：
-
-```
-我是意条鱼（B站名字有人取了）
-缘，妙不可言
-```
-
-## [循环歌单|【Stupid硬曲】|“【反转の小曲】【灭火器の小曲】所以灭火器到底是什么颜色？”](https://www.bilibili.com/video/BV1yQPdzfENd)
-
-![循环歌单|【Stupid硬曲】|“【反转の小曲】【灭火器の小曲】所以灭火器到底是什么颜色？”](images/0gz8ml5e.png)
-
-UP： [鸽某人音乐](https://space.bilibili.com/1434127353)，简介：
-
-```
-这首歌有力气～
-```
-
-## [为什么世界三大饮料作物茶，咖啡，可可都是苦的？](https://www.bilibili.com/video/BV1VHwWzVE6v)
-
-![为什么世界三大饮料作物茶，咖啡，可可都是苦的？](images/kj3hs0cd.png)
-
-UP： [行者道荣](https://space.bilibili.com/3537118582278552)，简介：
-
-```
-说出吾名，吓汝一跳！
-```
-
-## [连续三年米其林的福建菜，香辣鱿鱼，套肠和卤面很有特色。](https://www.bilibili.com/video/BV1jvcDzxEXm)
-
-![连续三年米其林的福建菜，香辣鱿鱼，套肠和卤面很有特色。](images/n7hu7gvt.png)
-
-UP： [温油辣辣U](https://space.bilibili.com/1244310984)，简介：
-
-```
-hello，这里是辣辣U
-一个爱吃早茶的靓女
-只体验，不接餐厅探店广告
-理性种草 感谢关注～
-```
-
-## [你可能不认识我，但你可能听过我写的歌！！](https://www.bilibili.com/video/BV1i3NMz1EUS)
-
-![你可能不认识我，但你可能听过我写的歌！！](images/exdn4udp.png)
-
-```
-谢谢大家一直以来支持我的音乐，现在的成果是属于我们大家的！
 ```
-
-UP： [mayauzz](https://space.bilibili.com/441988381)，简介：
-
-```
-全音乐平台：mayauzz
-```
-
-## [单三全局裸配scar和aw绝航清图](https://www.bilibili.com/video/BV1kJcDzvECw)
-
-![单三全局裸配scar和aw绝航清图](images/xucfwnk4.png)
-
-```
-1440 1080/1600 1.34
-finalmouse ulx m / 疾风乙 xsoft / wooting60 he
-
-当我们点起火把
-```
-
-UP： [悠一wakareno](https://space.bilibili.com/627676911)，简介：
-
-```
-wb：@悠一Wakareno   為宇宙而跳动的心脏
-```
-
-## [中美“厨房辩论”，美国到底输在了哪里？【毒舌的南瓜】](https://www.bilibili.com/video/BV1uYwxzyE8t)
-
-![中美“厨房辩论”，美国到底输在了哪里？【毒舌的南瓜】](images/r1sj2pzg.png)
-
-UP： [毒舌的南瓜](https://space.bilibili.com/43219807)，简介：
-
-```
-我最怜君中宵舞，道男儿到死心如铁，看试手，补天裂！
+用心创造让观众融入的故事世界
 ```
 
-## [“戏子多秋 可怜一处情深旧”](https://www.bilibili.com/video/BV1rAcSztEUt)
-
-![“戏子多秋 可怜一处情深旧”](images/ndwuk191.png)
-
-```
-翻唱：劉
-```
+## [鸣潮中的怪物都变成了美少女](https://www.bilibili.com/video/BV137cmzgE68)
 
-UP： [劉俊朗](https://space.bilibili.com/28677456)，简介：
+![鸣潮中的怪物都变成了美少女](images/j1ljxj9c.png)
 
 ```
-会一点唱歌一点配音一点游戏一点丝动静的天才死神!，直播时间见固定晚上五点直播，周一定休
+之前刷到一个鸣潮男角色变女生的视频，就萌发了做一个声骸变女装的念头，然后就有了这期视频
 ```
-
-## [《魔丸探案》1-9](https://www.bilibili.com/video/BV1LfPfzQE8e)
 
-![《魔丸探案》1-9](images/looss0ox.png)
+UP： [柠檬君与Aiko](https://space.bilibili.com/46057726)，简介：
 
-UP： [炮炮猫meme](https://space.bilibili.com/3690982287608269)，简介：
-
 ```
-感谢大家支持
+ai创作爱好者，希望遇到志同道合的你。
 ```
-
-## [【萌黄一槽】迪达拉[晓创生]全技能爆料，艺术就是...“咔呲！”](https://www.bilibili.com/video/BV1CHcDzPE9s)
-
-![【萌黄一槽】迪达拉[晓创生]全技能爆料，艺术就是...“咔呲！”](images/33fhc6w6.png)
 
-```
-粘土附着瞬间引爆，分身陷阱智斗破敌，艺术就是爆炸！
-```
+## [男友居然主动要女装…（这是女装预告x）](https://www.bilibili.com/video/BV1RVwgz3E35)
 
-UP： [火影忍者手游情报君](https://space.bilibili.com/441897078)，简介：
+![男友居然主动要女装…（这是女装预告x）](images/t4ldm4qv.png)
 
 ```
-《火影忍者》手游人型自走爆料机，在被开除的边缘 疯 狂 试 探 QAQ
+-
 ```
-
-## [全网最细！这游戏刷新了我对宗教的认知！｜《渎神》剧情解析(下)](https://www.bilibili.com/video/BV1A8cCz1EEw)
 
-![全网最细！这游戏刷新了我对宗教的认知！｜《渎神》剧情解析(下)](images/mqft7nwm.png)
+UP： [鱼桑の悦酱](https://space.bilibili.com/3546919410338237)，简介：
 
 ```
-本来标题其实是想写刷新了对游戏解说的认知。看了几个剧情解说，基本上剧情都是按照最早做渎神剧情解说的那位UP主来的，一点自己的想法都没有，就是换了个说法，加了几个烂梗，就是一个新视频了。
-自己回看的时候，感觉文案好混乱。
-续集播放量应该不高，10W就满足了😌
-这个封面，让我想起了CF里的黄金爆头😂
-```
 
-UP： [布鲁线](https://space.bilibili.com/403952877)，简介：
-
-```
-想做就去做
+这里是鱼悦！签绘相关在小店～/ 11岁相识、双水象双infp / 咱对对方来说是亲人般的存在哇(。-ω-)
 ```
 
-## [【我看见了不该存在的影子】恐怖故事：影子](https://www.bilibili.com/video/BV19owHz6EzF)
+## [《鸣潮》共鸣者战斗演示 | 西格莉卡](https://www.bilibili.com/video/BV1Y8wtzWEGU)
 
-![【我看见了不该存在的影子】恐怖故事：影子](images/i8g7tgcp.png)
+![《鸣潮》共鸣者战斗演示 | 西格莉卡](images/3zq4o3wl.png)
 
 ```
-你好！qwq
-```
-
-UP： [大口大口吃米饭](https://space.bilibili.com/1849477790)，简介：
-
-```
-耶嘿耶嘿嘿！+(= u =  ）
-```
+有事情需要帮忙？那找我就好啦！
 
-## [【ITZY】"THAT'S A NO NO" Dance Practice](https://www.bilibili.com/video/BV1YWwxzSEkc)
+中文CV
+西格莉卡：钱琛
 
-![【ITZY】"THAT'S A NO NO" Dance Practice](images/461g9tsd.png)
+日文CV
+西格莉卡：赤崎千夏
 
-UP： [ITZY](https://space.bilibili.com/1185017133)，简介：
+英文CV
+西格莉卡：Maya Lindh
 
+韩文CV
+西格莉卡：장예나
 ```
-All in us! 大家好，我们是ITZY !
-```
-
-## [谁说改编必须得照着原著来？《午夜凶铃》科幻改成恐怖爆款！](https://www.bilibili.com/video/BV149cDzGEx2)
-
-![谁说改编必须得照着原著来？《午夜凶铃》科幻改成恐怖爆款！](images/pfmecu79.png)
 
-UP： [电影冷知识](https://space.bilibili.com/145750219)，简介：
+UP： [鸣潮](https://space.bilibili.com/1955897084)，简介：
 
 ```
-爱电影更爱你……
+鸣潮往复 文明不屈
 ```
 
-## [慕沛灵巡回演唱会（瀚海沙漠站）](https://www.bilibili.com/video/BV1GhcdzYEfU)
+## [子弹要飞多久才能变成白鸽？](https://www.bilibili.com/video/BV1JjwTzkEPY)
 
-![慕沛灵巡回演唱会（瀚海沙漠站）](images/2ksnf46d.png)
-
-```
-慕沛灵巡回演唱会·瀚海沙漠站
-黄沙漫卷，孤影伫立。她以歌声诉尽仙途孤寂，唱遍对韩立的执念、不甘与怀念。那些藏在落云宗药园的心事，那些未说出口的深情，都融进瀚海长风，在无边沙海之中，唱出属于她的动人回响。
-```
+![子弹要飞多久才能变成白鸽？](images/dn8d379s.png)
 
-UP： [元老魔的世界](https://space.bilibili.com/348618329)，简介：
+UP： [老王在中国](https://space.bilibili.com/3537122973714533)，简介：
 
 ```
-音乐上传到网易云音乐了，可以到这里听https://music.163.com/#/artist?id=100528662
+伊拉克人在中国，油管:Iraqi in China 
 ```
 
-## [【龙女塔罗】三月，你的爱情。金星落在十二星座3月份的爱情运势（以金星为主！！！）](https://www.bilibili.com/video/BV1cqwJz2Eok)
+## [潜水抓鱼却被鱼引入洞穴深处，2·5贵州毕节小凹河潜水事故](https://www.bilibili.com/video/BV1kdwuzXEs7)
 
-![【龙女塔罗】三月，你的爱情。金星落在十二星座3月份的爱情运势（以金星为主！！！）](images/hhsfwf5o.png)
+![潜水抓鱼却被鱼引入洞穴深处，2·5贵州毕节小凹河潜水事故](images/egws5pqw.png)
 
-UP： [龙女塔罗](https://space.bilibili.com/476706561)，简介：
-
 ```
-All or Nothing.水瓶座infj塔罗师
+2026年2月5日晚上，贵州毕节的一名男子偷偷来到支嘎阿鲁湖潜水抓鱼，他追着一条鱼越游越深，之后再也没有出现。接着，一场持续了27天的搜寻行动就此展开。
 ```
-
-## [你把我请来的道士看死了你知道吗。](https://www.bilibili.com/video/BV1P8NKzREJh)
 
-![你把我请来的道士看死了你知道吗。](images/g6jy0c5q.png)
+UP： [神秘园](https://space.bilibili.com/87670515)，简介：
 
 ```
-其实是因为晚自习讲话被罚了不想上台表演于是乎产出给班里同学看的东西（什，剧情无厘头，不喜勿喷
-
-其实本来想塞进去更多雷霆东西的但因为是一天之内完成的产物所以放弃了（爆）
+真实探险故事系列！户外探险应量力而行，切勿违规徒步/登山！
 ```
 
-UP： [叫我屑渣子](https://space.bilibili.com/1935068902)，简介：
-
-```
-叫我屑渣子
-```
+## [太阳西边出：日网民强烈反对应美要求出兵霍尔木兹](https://www.bilibili.com/video/BV1zwwgzUEvB)
 
-## [【哈基米】极尽升华，战至最后一刻！](https://www.bilibili.com/video/BV1VpwWzkEJ3)
+![太阳西边出：日网民强烈反对应美要求出兵霍尔木兹](images/cxbq3k1d.png)
 
-![【哈基米】极尽升华，战至最后一刻！](images/fvsgku5x.png)
+UP： [波士顿圆脸](https://space.bilibili.com/346563107)，简介：
 
 ```
-不，我决不能倒下！我要站起来，我要……再战！三气归来！
+人话聊世界 商务+SiempreYI
 ```
-
-UP： [毒影子](https://space.bilibili.com/15167172)
-
-## [我叫杨间  第三百八十八集 生孩子](https://www.bilibili.com/video/BV1kzwczaEkc)
 
-![我叫杨间  第三百八十八集 生孩子](images/dahji0s7.png)
+## [一人肝4年，百万下载，这全免费神作国游图啥？](https://www.bilibili.com/video/BV13EwJzfEbe)
 
-UP： [我叫杨间动画](https://space.bilibili.com/437341902)，简介：
+![一人肝4年，百万下载，这全免费神作国游图啥？](images/u2gbrxl0.png)
 
 ```
-qi点?《终结灵异时代》
-```
+我们采访了《圣歌德嘉的晚钟》的制作人！
 
-## [因为一个梦，我给高中班主任发了条消息……](https://www.bilibili.com/video/BV1JNwHzjEmp)
+爆肝4年制作、不加广告全免费
+游戏内自创语言、硬核的POV蝴蝶效应分支剧情
+玩家把它叫做国游神作，还建议开收费......
 
-![因为一个梦，我给高中班主任发了条消息……](images/y68312r4.png)
-
-```
-果然啊.....长大后....就是会变得不一样
+为爱发电的原因到底是什么呢？
 ```
 
-UP： [是莫叔叔吗](https://space.bilibili.com/9841658)，简介：
+UP： [TapTap发现好游戏](https://space.bilibili.com/35046997)，简介：
 
 ```
-可能是！可能！2027年百大UP主
+TapTap官方账号
 ```
 
-## [朋友说一刀都不用剪](https://www.bilibili.com/video/BV1oQNMz7EkK)
+## [高中数学考题的根在哪？源自教材，逐步演变](https://www.bilibili.com/video/BV1gvwTz8Edx)
 
-![朋友说一刀都不用剪](images/loyk9s7z.png)
+![高中数学考题的根在哪？源自教材，逐步演变](images/0advrqqe.png)
 
 ```
-新手刚入坑神力科莎：拉力，感觉地面滑溜溜的30km/h轻拉手刹都能原地转圈；
-车尾视角的速度感很低，一百多时速的时候不看表没什么感觉；
-高速情况下感觉车非常重，方向好像锁死了一样操纵感很缥缈；
-
-看教程说是手柄需要另外调不能走默认，回头再试试吧
+回归教材，逐步演变，这样解高考题是不是很轻松？
 ```
 
-UP： [优香酱世界上第一可爱](https://space.bilibili.com/456931151)
+UP： [葛军-03不是我](https://space.bilibili.com/1631952405)
 
-## [记住"高广辉" 在家猝死被认定工伤的32岁程序员](https://www.bilibili.com/video/BV1sXc2z4EVN)
+## [孤岛小夫](https://www.bilibili.com/video/BV1vLcBzSExx)
 
-![记住"高广辉" 在家猝死被认定工伤的32岁程序员](images/07oz729c.png)
+![孤岛小夫](images/pxbmac4m.png)
 
 ```
-杨华思，程序员高广辉的妻子。失去丈夫时，她只有29岁。2025年11月29日，周六，32岁的高广辉在家中突然晕倒，抢救无效不幸离世。今年2月14日，华思等到了来自广州市黄埔区人力资源和社会保障局的《认定工伤决定书》。华思的发声，让我们有机会看见程序员高广辉的一生，以及公司与高广辉签订的劳动合同里那些违反劳动法的条款。高广辉前同事的发声也让我们得知，隐形加班如何成为了这家公司程序员的日常状态。这是程序员高广辉猝死的悲剧，也是妻子杨华思替他发声的故事。希望更多人看到“高广辉”，也审视我们自己。
+剧情高潮其实在第二集，但是这个好难做，不想做第二集了
 ```
 
-UP： [看看新闻Knews](https://space.bilibili.com/6250993)，简介：
+UP： [派之新](https://space.bilibili.com/96245669)，简介：
 
 ```
-叩击时代！新闻，也可以吐槽
+内裤越大，责任越大
 ```
 
-## [歌剧老师锐评R.E.D、时代少年团、童禹坤&邓佳鑫&张子墨&黄朔、NAME （内娱团体）live现场](https://www.bilibili.com/video/BV1aBcUzyEiU)
+## [小伙扛不住了把电脑卖了，吃麻辣烫炸串小甜水舒服一下](https://www.bilibili.com/video/BV1ofwxzREnz)
 
-![歌剧老师锐评R.E.D、时代少年团、童禹坤&邓佳鑫&张子墨&黄朔、NAME （内娱团体）live现场](images/lbayhzqk.png)
+![小伙扛不住了把电脑卖了，吃麻辣烫炸串小甜水舒服一下](images/plnom1tc.png)
 
 ```
-歌剧老师锐评R.E.D、时代少年团、童禹坤&邓佳鑫&张子墨&黄朔、NAME （内娱团体）live现场
+-
 ```
 
-UP： [铁豆钢蛋](https://space.bilibili.com/379028503)，简介：
+UP： [咸鱼梦想家vlog](https://space.bilibili.com/272654283)，简介：
 
 ```
- 沈阳音乐学院声乐歌剧系。连续两年获得鲁艺杯金奖。2023年盛京大剧院举办独唱音乐会，现致力于声乐歌剧教学。近期盛京大剧院将举办独唱音乐会。
+一条有梦想的咸鱼
+在这里记录和分享自己的日常生活
 ```
 
-## [雨林里的小企鹅](https://www.bilibili.com/video/BV1EBPDzPEwW)
+## [【互动视频／病娇】●.●](https://www.bilibili.com/video/BV1uvwxzGEur)
 
-![雨林里的小企鹅](images/i3cuz56l.png)
+![【互动视频／病娇】●.●](images/rxh1z2xh.png)
 
 ```
-一场雨，一段软乎乎的治愈时光
-BGM：Tyndall
+以下是用到的音频：
+一场浪漫且阴郁的雨
+retrieval
+arctic dream
+最上級の愛は狂気を孕んで
+glow stars on my ceiling
+遗憾它藏在眼泪里
+doll
+Derealization
+i was only temporary
 ```
 
-UP： [陈千语Sama](https://space.bilibili.com/310906792)，简介：
+UP： [糕冷盐pwp](https://space.bilibili.com/3461564237613362)，简介：
 
 ```
-世界破破烂烂，小企鹅缝缝补补
+⁺✞黑巧重度依赖ɞ✟₊
+脑浆流出来了啊啊啊｡ﾟ(ﾟ*´▽`ﾟ*)ﾟ｡
 ```
-
-## [“我做了个很长很长的梦…”](https://www.bilibili.com/video/BV1ZzcCzBE61)
 
-![“我做了个很长很长的梦…”](images/5wv0vvxc.png)
+## [《流俗地》揭示了俗人的人生，努力生存又感到无聊，只是各有各的俗](https://www.bilibili.com/video/BV15swtzoETL)
 
-```
-(៸៸᳐⦁⩊⦁៸៸᳐ )੭
-```
+![《流俗地》揭示了俗人的人生，努力生存又感到无聊，只是各有各的俗](images/x3s7gp2u.png)
 
-UP： [无聊の南](https://space.bilibili.com/637808684)，简介：
+UP： [天真的和感伤的小说家](https://space.bilibili.com/314521322)，简介：
 
 ```
-yesyes～
-梦到什么就剪什么～
-(〜￣▽￣)〜
+小说 电影 跟想象有关的
 ```
 
-## [光鲜带货背后的肮脏车间：直击网红毛肚生产乱象](https://www.bilibili.com/video/BV1gawxz5Ewt)
+## [最会截图的一集](https://www.bilibili.com/video/BV1XccDzmENf)
 
-![光鲜带货背后的肮脏车间：直击网红毛肚生产乱象](images/wrqr0qlw.png)
+![最会截图的一集](images/npmsdoii.png)
 
 ```
-“没有任何腥味”、“免切免洗免煮”、“假一赔十”……形貌昳丽、广受欢迎的网红主播，带货宣传的开袋即食千层肚产品，也让广大粉丝对牛肚的质量蒙上了宣传网红一样的光鲜滤镜。然而，镜头背后的车间内的真实情况，却令人大跌眼镜——操作人员在蒸煮过程中肆意抽烟、牛肚在破损的环氧树脂地面冷却并铲走、甚至，泡发步骤还有涉嫌超范围使用双氧水的嫌疑。某些网红带货的牛肚产品，背后藏着怎样的卫生隐患？敬请收看本期《3·15消费热线》。
+截图，是一门艺术。
 ```
 
-UP： [中国食品报融媒体](https://space.bilibili.com/439478093)，简介：
+UP： [老子名字深蓝](https://space.bilibili.com/446896019)，简介：
 
 ```
-科普食品相关知识～
+世界第一守约殿下！！！！！！！！！！
+围脖：老子名字深蓝
 ```
 
-## [我是厨神 你信不？](https://www.bilibili.com/video/BV1VHNgz2EzY)
+## [刚子重生日记#17](https://www.bilibili.com/video/BV1KawHzZEiC)
 
-![我是厨神 你信不？](images/7ibsqdwx.png)
+![刚子重生日记#17](images/o9l85qsg.png)
 
 ```
-做了2分钟视频，怎么样？我下次更新短点的，你们说行不行？呵呵，我知道没人看简介的。我知道没人看。
+“道爷我成了！”
 ```
-
-UP： [花盆儿儿儿](https://space.bilibili.com/123721378)
 
-## [新疆小伙笑怼西方谣言把自个儿怼成网红](https://www.bilibili.com/video/BV1mRcrzSEep)
+UP： [曼巴星i人](https://space.bilibili.com/40714772)，简介：
 
-![新疆小伙笑怼西方谣言把自个儿怼成网红](images/i7gjs1i6.png)
-
 ```
-安柏然对话维吾尔族青年@路西法Lusiferr  ：他连线海外，戳破西方媒体关于新疆的虚假宣传，用亲身经历讲述新疆，真实又有力！
-```
-
-UP： [安柏然Andy](https://space.bilibili.com/40484108)，简介：
+音浪同名id
+理论上不定期早上八点更新，暂时2-3天一更吧0.0
 
 ```
-家在新西兰，工作在上海。不是吹捧中国的投机者，而是讲述事实的媒体人。
-```
 
-## [3块肉卖98！还要排长队？吃完体验竟然还不错...](https://www.bilibili.com/video/BV1ndwEzyEQk)
+## [新纪元：“身披重甲的西伯利亚狂战士，试图用俄式暴力美学改写空战规则！”](https://www.bilibili.com/video/BV1CYwMzSEAA)
 
-![3块肉卖98！还要排长队？吃完体验竟然还不错...](images/z9spvwcw.png)
+![新纪元：“身披重甲的西伯利亚狂战士，试图用俄式暴力美学改写空战规则！”](images/et8w65di.png)
 
 ```
-连锁店照例声明：频道所有美食探店本身无广，本期无商单，纯个人观点喜好
-（这家其实是日本物语集团(Monogatari Corporation)旗下品牌，投也不会投到战狼王师傅的头上吧...）
-
-
-【排长队系列-肉肉大米】
+新纪元New world epoch
+SU-57“重刑犯”战斗机
+BGM：1.TIRED OF PROBLEMS 2.SO TIRED
 ```
 
-UP： [王师傅和小毛毛](https://space.bilibili.com/452606628)，简介：
+UP： [Empire胡汉斯](https://space.bilibili.com/1217566217)，简介：
 
 ```
-山猪吃细糠~
+一个普通的男孩子...
+时不时更新各种超燃混剪
+感谢各位的支持！
 ```
 
-## [人 猫 智 斗](https://www.bilibili.com/video/BV1qsc2z1Eem)
+## [历时三个月，我的豪华木屋搭建快完工了，吃一个猪头肉庆祝一下。](https://www.bilibili.com/video/BV1UywuzcEiH)
 
-![人 猫 智 斗](images/nau10bqc.png)
+![历时三个月，我的豪华木屋搭建快完工了，吃一个猪头肉庆祝一下。](images/twnxl2j1.png)
 
 ```
-原动画：西蒙的猫
+-
 ```
 
-UP： [铃乃Chan](https://space.bilibili.com/471322521)，简介：
+UP： [浪子小牛](https://space.bilibili.com/3546897203595523)，简介：
 
 ```
-纯个人势！希望俺能给你带来纯粹的快乐\(≧▽≦)/
+小号 大号三月解封
 ```
 
-## [《崩坏：星穹铁道》4.1版本PV：「献给破晓的失控」](https://www.bilibili.com/video/BV1Smczz2EJa)
+## [从爆火到褒姒的养龙虾：一代人有一代人的鸡蛋要领。](https://www.bilibili.com/video/BV1rcwgzJEKo)
 
-![《崩坏：星穹铁道》4.1版本PV：「献给破晓的失控」](images/rp36p5l3.png)
+![从爆火到褒姒的养龙虾：一代人有一代人的鸡蛋要领。](images/oondjyeh.png)
 
 ```
-幸福的呢喃蔓延，往日的恶灵重现。聚光灯下，英雄行走在崇拜与憎恶铸就的空中轨道，稍不注意便会跌落其间。听呐！天空的尽头传来嗤笑，是破晓的鸣笛还是荒诞剧的开幕表演？
- 
-※本视频包含部分开发中内容，实际内容请以正式上线为准
- 
-中文CV：
-真珠——苏婉
-不死途——张沛
-绯英——溯浔
-姬子——林簌
-三月七——诺亚
- ‌
-日文CV：
-真珠——安野希世乃
-不死途——子安武人
-绯英——佐仓绫音
-姬子——田中理惠
-三月七——小仓唯
- ‌
-英文CV：
-真珠——Cat Protano
-不死途——Blythe Melin
-绯英——Nathalie Ferare
-姬子——Cia Court
-三月七——Skyler Davenport
- ‌
-韩文CV：
-真珠——여윤미
-不死途——강수진
-绯英——문유정
-姬子——김보나
-三月七——정혜원
+-
 ```
 
-UP： [崩坏星穹铁道](https://space.bilibili.com/1340190821)，简介：
+UP： [唯一讲述者](https://space.bilibili.com/278761367)，简介：
 
 ```
-愿此行，终抵群星。 
+公关就是传奇背锅位——整活科普型up主，梦想赚点钱退休当咸鱼，有东西，但不多。
+邮箱317154407@qq.com
 ```
 
-## [东部战区终于等来万吨大驱！东莞舰安庆舰出海练起来~](https://www.bilibili.com/video/BV15EcSz7Etd)
+## [【深度分析】打了半个多月，伊朗还手力度超乎美国想象？](https://www.bilibili.com/video/BV11UwTzSEYZ)
 
-![东部战区终于等来万吨大驱！东莞舰安庆舰出海练起来~](images/hfzwm768.png)
+![【深度分析】打了半个多月，伊朗还手力度超乎美国想象？](images/xvpsxi5c.png)
 
 ```
-055型导弹驱逐舰被誉为航母的“带刀护卫”，也是远海任务的编队核心。近日，055型驱逐舰第9艘舰东莞舰和第10艘舰安庆舰同步入列，随后就分别开赴东海相关海域展开首次海上实战化训练。（新闻直播间）
+自美以对伊朗发动联合军事打击至今已超半月，双方持续互相威胁和袭击，伊朗方面的反击力度也在不断加大，战事愈发胶着，烈度持续升级。除了局势走向牵动人心以外，双方的弹药供应，以及美军近期接连出现的装备事故也引发广泛关注。多架F-15E战斗机坠毁、KC-135加油机坠落伊拉克、“福特”号航母火灾等等，从极限施压到空袭作战，美军装备暴露出诸多问题。本期节目，由主持人周瑜对话军事专家杜文龙、军事评论员魏东旭，分析美军在实际军事行动中装备故障率频频走高的原因，深入解读冲突当前态势以及未来走向。（兵器面面观）
 ```
 
 UP： [央视军事](https://space.bilibili.com/46470268)，简介：
@@ -961,212 +329,293 @@ UP： [央视军事](https://space.bilibili.com/46470268)，简介：
 中央广播电视总台国防军事频道官方账号
 ```
 
-## [全链条追责网络“开盒”](https://www.bilibili.com/video/BV1VEcfzuEnJ)
+## [丝之歌x星见雅1.0皮肤发布](https://www.bilibili.com/video/BV1XBwuzNE6p)
 
-![全链条追责网络“开盒”](images/vxcwfp9n.png)
-
-UP： [央视网](https://space.bilibili.com/222103174)，简介：
+![丝之歌x星见雅1.0皮肤发布](images/uwzbatob.png)
 
 ```
-我还是从前那个小央没有一丝丝改变~
+星见雅1.0皮肤下载链接：https://pan.baidu.com/s/1ZqOF8EnIt27p9nmPQfC49Q?pwd=zycl 
+还有很多不足的地方，但是我真的画不动了。干脆先发出来给大家解解馋吧，希望大家玩的开心。
+(甚至没有拿得出手的打boss展示！录了半个多点一直在死！早就忘了这游戏的操作技巧和boss招式了)
+皮肤mod前置n网链接：
+BepInEx：https://www.nexusmods.com/hollowknightsilksong/mods/26
+Customizer：https://www.nexusmods.com/hollowknightsilksong/mods/142
+CustomizerT2D：https://www.nexusmods.com/hollowknightsilksong/mods/203
+感谢赤红忆境里各位老师的技术与创意支持，没有你们我绝对画不到今天这种程度，感谢。
 ```
 
-## [为什么说S.H.E是娱乐圈姐妹情YYDS？没有C位之争只有"老婆"互称](https://www.bilibili.com/video/BV1zpcUzRE4m)
-
-![为什么说S.H.E是娱乐圈姐妹情YYDS？没有C位之争只有"老婆"互称](images/tsqmr370.png)
+UP： [终焉苍龙](https://space.bilibili.com/7054977)，简介：
 
 ```
-磕一磕大蛇团的神仙友谊
+要成为有趣的人
 ```
 
-UP： [给我一首歌的时间time](https://space.bilibili.com/3546637985122712)，简介：
+## [上海国际赛车场再次奏响《义勇军进行曲》🇨🇳🇨🇳](https://www.bilibili.com/video/BV1CQwTzmEaL)
+
+![上海国际赛车场再次奏响《义勇军进行曲》🇨🇳🇨🇳](images/esji0lzq.png)
 
 ```
-给我一首歌的时间，还你一段不为人知的故事
+上海国际赛车场再次奏响《义勇军进行曲》🇨🇳🇨🇳
 ```
 
-## [阿傩单曲《不方便》：你就提溜俩爪子来啊？](https://www.bilibili.com/video/BV1QtwAzmEmH)
-
-![阿傩单曲《不方便》：你就提溜俩爪子来啊？](images/0r1a2a4u.png)
-
-UP： [漫游会议室](https://space.bilibili.com/204476654)，简介：
+UP： [F1世界锦标赛](https://space.bilibili.com/296086460)，简介：
 
 ```
-歌曲只传了网易云音乐，其它音乐平台都是盗传哈。
+F1世界一级方程式锦标赛官方账号
 ```
 
-## [连坑三代爱新觉罗！八爷亡语如何坑死雍正儿子？【雍正王朝十级学者】第53回](https://www.bilibili.com/video/BV1bWwJzxExH)
+## [【世界周刊】美伊危局](https://www.bilibili.com/video/BV1Riw3z5EkS)
 
-![连坑三代爱新觉罗！八爷亡语如何坑死雍正儿子？【雍正王朝十级学者】第53回](images/u9mjvhha.png)
+![【世界周刊】美伊危局](images/x7ruj07m.png)
 
-UP： [一条闲木鱼](https://space.bilibili.com/2083634390)，简介：
-
-```
-坚持唯物史观，你我皆可燎原
-```
-
-## [后来我从黑屋子里跑了出来，一脚踩碎了红发卡](https://www.bilibili.com/video/BV177wxz9EMk)
-
-![后来我从黑屋子里跑了出来，一脚踩碎了红发卡](images/xq7n35ch.png)
-
-UP： [SUN是太阳啦-](https://space.bilibili.com/3546666791602773)，简介：
+UP： [央视新闻](https://space.bilibili.com/456664753)，简介：
 
 ```
-大家好！！！我是SUN！一名在校大学生?‍?
-感谢大家的喜欢，感恩୧⍢⃝୨
-我的目标是成为百万博主！然后还有当演员嘿嘿
+中央广播电视总台央视新闻官方账号
 ```
 
-## [茶田里的小企鹅](https://www.bilibili.com/video/BV1p2c6zTENA)
+## [我是给?!!!](https://www.bilibili.com/video/BV16pcUzREBs)
 
-![茶田里的小企鹅](images/z5n8fojy.png)
-
-```
-风遇茶田，春遇温柔。
-BGM：春日小径花园Spring Alley Garden-Furyl
-```
-
-UP： [陈千语Sama](https://space.bilibili.com/310906792)，简介：
+![我是给?!!!](images/p42nbzmh.png)
 
 ```
-世界破破烂烂，小企鹅缝缝补补
+莱昂...往日种种...难道你真的不记得了么？！
+往日....你说的...可是往日？！
+你...可还有话说？
+再无话说，请速速动手！（指一起建设美丽新沃尔西尼市）
+------------------------------
+做完这期就要赶紧去做终末地了，忙死我了忙死我了........
+------------------------------
+【绘制】恶意第欢人
+【剪辑】恶意第欢人
+【部分画面描改素材来源】
+游戏|《明日方舟》
+视频|BV19i4y1U7qN
+漫画|@不会画画的阿云  老师的传世经典“我是同性恋”，感谢阿云老师开源~
+动漫｜《火影忍者》
+【BGM】
+corn wave 2 - WAKE UP (PHONK)
+椎名林檎 - 17
 ```
 
-## [湛江游神“妈祖换童”事件全解析：男童？资本？轿子抬不动？](https://www.bilibili.com/video/BV1ZQcSz9Ehi)
-
-![湛江游神“妈祖换童”事件全解析：男童？资本？轿子抬不动？](images/nif1jrof.png)
-
-UP： [动物园巡逻员](https://space.bilibili.com/99443903)，简介：
+UP： [恶意第欢人](https://space.bilibili.com/4071867)，简介：
 
 ```
-专注谣言辟谣及反转事件盘点，偶尔会分享观点，感谢大家的关注
+谢谢你喜欢我的视频和直播～一般周末直播(´∀`)
 ```
 
-## [陈翔六点半:全村都在笑话我，只有她最心疼我](https://www.bilibili.com/video/BV1ugcDzkEhy)
+## [美军战机躲避伊朗导弹画面出自游戏](https://www.bilibili.com/video/BV1kpcDzYEmv)
 
-![陈翔六点半:全村都在笑话我，只有她最心疼我](images/g4784asj.png)
-
-UP： [陈翔六点半](https://space.bilibili.com/19286458)，简介：
+![美军战机躲避伊朗导弹画面出自游戏](images/3eb8stj3.png)
 
 ```
-陈翔导演作品，让快乐为你加速！
+近日，一架美军战斗机在空中惊险躲避伊朗导弹袭击的画面在社交媒体上广泛流传。然而，经法新社核查，这段画面实际上来自一款飞行模拟电子游戏，并非真实军事场景。
 ```
 
-## [【人生逃逸号】](https://www.bilibili.com/video/BV1cbNFzwEQU)
-
-![【人生逃逸号】](images/gpkrkrrl.png)
+UP： [央视新闻](https://space.bilibili.com/456664753)，简介：
 
 ```
-是为@17word 写下的委托音乐，单主负责了绘制和动画制作，非常惊艳…感激不尽(˃ ⌑ ˂ഃ )
+中央广播电视总台央视新闻官方账号
 ```
 
-UP： [在虚无中永存](https://space.bilibili.com/3546800493431586)，简介：
+## [从《花间令》到《逐玉》，野草型女主已彻底沦为男主赋魅工具](https://www.bilibili.com/video/BV1tCwnzhEdA)
+
+![从《花间令》到《逐玉》，野草型女主已彻底沦为男主赋魅工具](images/puv3wm2k.png)
 
 ```
-(˃ ⌑ ˂ഃ )
+野草爆改娇妻，男主过度赋魅，剧宣竭泽而渔。
+最终导致的结局，不是长剧市场回暖，而是提前消耗观众对平台的信任，加速整个长剧市场的消亡。
+在长剧渐冷、观众失望的市场背景下，尽管观众还没有放弃长剧，可长剧却已经先一步抛弃观众了。
 ```
 
-## [今天是嘟嘟嘴老王，南京的高铁趁我不注意就攻击我！](https://www.bilibili.com/video/BV1PkwxzqEJV)
-
-![今天是嘟嘟嘴老王，南京的高铁趁我不注意就攻击我！](images/yb7hpbmh.png)
-
-UP： [老王在中国](https://space.bilibili.com/3537122973714533)，简介：
+UP： [村花在野](https://space.bilibili.com/5059227)，简介：
 
 ```
-伊拉克人在中国，油管:Iraqi in China 
+小镇之花，开于旷野。
 ```
 
-## [（半成品/微恐）“？”](https://www.bilibili.com/video/BV14ocDzgEHW)
+## [嗯？你是来找钟莉玩的嘛？](https://www.bilibili.com/video/BV1zqw4zfEAZ)
 
-![（半成品/微恐）“？”](images/2l6o3czq.png)
-
-```
-bgm：come＆get it
-根据投票选了第一段音乐
-```
-
-UP： [16毛](https://space.bilibili.com/490061652)，简介：
+![嗯？你是来找钟莉玩的嘛？](images/jjpkcc3m.png)
 
 ```
-草
+这一期回归主线了，是纯手搓的。
+回头看挺感慨的，钟莉发布的时候，我差不多刚开始做原神的鬼畜视频，一晃已经4年了啊，那时候的我还不会什么实景合成，不会什么mmd，从零开始一点点摸索，跌跌撞撞走到现在。正好千星奇域语音功能上线，我想着可不可以让可莉顶着钟离的形象开麦整活，一下子就梦回《钟莉》震撼发布的当年，致敬当时的快乐，也致敬一路陪我从萌新走到现在的你们。
+
+模型：米哈游
+模型提取：lukatoni5、可以喝的可樂、Viero月城
+场景渲染：克里斯提亚娜
+角色渲染：FESTIVITY、GOO-ENGINE
+董城主大作：钟莉BV1a34y127yT
+GPT-SoVITS开发者：@花儿不哭  
+模型训练者：@红血球AE3803   & @白菜工厂1145号员工  还有我自己
+推理特化包适配 & 在线推理：@AI-Hobbyist
 ```
 
-## [千星奇域建模展示—骑刃王～银虎骑](https://www.bilibili.com/video/BV1AewJzSEhh)
-
-![千星奇域建模展示—骑刃王～银虎骑](images/djrk2dqf.png)
+UP： [托宝_TORBJORN](https://space.bilibili.com/32618090)，简介：
 
 ```
-懒狗作者终于更新了，这期是骑刃王—银虎骑的建模展示视频
+龟速整活小能手～
 ```
 
-UP： [西西西瓜魔人](https://space.bilibili.com/2025952834)，简介：
+## [官方出手就是没轻没重的](https://www.bilibili.com/video/BV1bnwJztEvq)
+
+![官方出手就是没轻没重的](images/7f0olpty.png)
 
 ```
-原神地图创作者
-不定时更新…
-
+官方发饭就是下手重（大吃一口）（嚼嚼嚼）
+对抗路小情侣直接眉来眼去情意绵绵
 ```
 
-## [威龙一不小心开错了模式，居然来到了大战场？](https://www.bilibili.com/video/BV1pAwWzxEn4)
-
-![威龙一不小心开错了模式，居然来到了大战场？](images/03vmgl7w.png)
-
-UP： [左手动漫-三角洲行动](https://space.bilibili.com/3546964893370390)，简介：
+UP： [星魁有鱼](https://space.bilibili.com/2024909)，简介：
 
 ```
-高质量动画作者 找战神服务浩：纯欲风护航  30M以上看服务浩（纯欲风商行2）
+一个破画画的，佛系，脑洞随机产出
+有一些小想法的话就剪点东西分享
 ```
 
-## [没有呼吸义务](https://www.bilibili.com/video/BV1G8wtzWEso)
+## [我的十佳电影推荐。](https://www.bilibili.com/video/BV11JcXzVEye)
 
-![没有呼吸义务](images/qw4gitce.png)
-
-```
-好看就再出一期
-欢迎投稿
-```
-
-UP： [张恒不吃葱](https://space.bilibili.com/1844873138)，简介：
+![我的十佳电影推荐。](images/0bnh0sn3.png)
 
 ```
-张力
+个人向十佳电影推荐。
 ```
 
-## [【终末地】我来给汤汤重制EP！清波寨OH MY LIFE！](https://www.bilibili.com/video/BV1ohcUzJEFA)
-
-![【终末地】我来给汤汤重制EP！清波寨OH MY LIFE！](images/5w1f48sp.png)
+UP： [黑泽千夜_](https://space.bilibili.com/400699433)，简介：
 
 ```
-主包蹭个小热度，大家轻点骂
+经典类型片爱好者
+“真正的好刀应收入鞘中。”———黑泽明《椿三十郎》
 ```
 
-UP： [Czy0874OvO](https://space.bilibili.com/11178126)
+## [冒牌专家：过了315再联系](https://www.bilibili.com/video/BV13ZwMzYEQ1)
 
-## [老阿sir化身资深打工人，福特野马被迫消星](https://www.bilibili.com/video/BV1eXwJziEn4)
+![冒牌专家：过了315再联系](images/dkyir8s0.png)
 
-![老阿sir化身资深打工人，福特野马被迫消星](images/8mtdto50.png)
-
-UP： [争取最后的自由](https://space.bilibili.com/1745143606)，简介：
+UP： [央视新闻](https://space.bilibili.com/456664753)，简介：
 
 ```
-谢谢大家的支持 
+中央广播电视总台央视新闻官方账号
 ```
 
-## [【万字拆解】洞潜区噩耗频传！《夺命深渊》潜入地球最深洞穴，地底1000米，出口封死，如何逃出生天？怎么洞越深，我的心越荡？](https://www.bilibili.com/video/BV1ZZwxzxE1J)
+## [【卫戍金曲】兄弟救一下😭音乐MV](https://www.bilibili.com/video/BV14KwazxEff)
 
-![【万字拆解】洞潜区噩耗频传！《夺命深渊》潜入地球最深洞穴，地底1000米，出口封死，如何逃出生天？怎么洞越深，我的心越荡？](images/1ui8m8em.png)
+![【卫戍金曲】兄弟救一下😭音乐MV](images/evc48lpk.png)
 
-```
-洞潜区噩耗频传，黑暗又来侵袭咱们了。
-愿老天保佑不那么安分的灵魂，前不久带你们去地下洞穴去探过险，还活着的，这次，咱们再升一级，挑战极限运动的天花板，致死率最高的洞穴潜水。
-探旱洞已经是九死一生，探有水的洞那堪称早晚的事。
-什么坚果油灰洞，九顿天窗，见了它都得喊一声妈妈，这就是巴布亚新几内亚的洞穴之母——伊萨·阿拉。
-事故区的视频你们也没少看，本期节目，迷影UP我系统的带各位冒险宝宝感受下，洞潜究竟是一项怎样的运动，首先声明，生死有命富贵在天，我只负责带你们去，可不保证带你们回。
-若要问，为什么这么危险，还有大把的人以身犯险，我只能说，有些人，生来就是准备去死的。
-```
-
-UP： [迷影区间](https://space.bilibili.com/245069296)，简介：
+UP： [丁脏猫DaggyCat](https://space.bilibili.com/563523)，简介：
 
 ```
-光影中的潜行者，从玻璃镜子的那一个方向，往返穿梭于那个被称为“The Zone”的模糊领地。
+aka ding 创新驱动发展 建设美丽港城
 ```
+
+## [【世界周刊】警惕“新型军国主义”](https://www.bilibili.com/video/BV1Riw3z5ERj)
+
+![【世界周刊】警惕“新型军国主义”](images/ogy92bzf.png)
+
+UP： [央视新闻](https://space.bilibili.com/456664753)，简介：
+
+```
+中央广播电视总台央视新闻官方账号
+```
+
+## [沉默  大招  眩晕三连控，全新鸡爪亚瑟登场](https://www.bilibili.com/video/BV1bQcDzCEki)
+
+![沉默  大招  眩晕三连控，全新鸡爪亚瑟登场](images/e1ki27i3.png)
+
+```
+沉默 大招 眩晕三连控，全新鸡爪亚瑟登场
+```
+
+UP： [磊哥游戏](https://space.bilibili.com/268941858)，简介：
+
+```
+我是磊锋
+```
+
+## [除太阳外距离我们最近的恒星系统--半人马座α星！](https://www.bilibili.com/video/BV1gFwuzwECR)
+
+![除太阳外距离我们最近的恒星系统--半人马座α星！](images/gsezreqp.png)
+
+```
+比邻星（ProximaCentauri）是距离太阳最近的恒星，距离地球仅约4.2光年。它是一颗M型红矮星，体积和亮度都远小于太阳，却拥有非常强烈的磁场活动，经常爆发剧烈的恒星耀斑。在这颗恒星周围，目前已经发现了 比邻星 b、d 等行星，其中比邻星 b 甚至位于宜居带内。这期视频，我将带大家一起了解这颗离太阳最近的恒星，以及它所在的南门二恒星系统。
+-----------------------------------------------------------
+
+00:00 南门二系统（Alpha Centauri）
+01:01 南门二A（α Centauri A）
+02:42 南门二B（α Centauri B）
+03:29 比邻星（Proxima Centauri）
+05:43 比邻星周围的行星
+11:36 站在南门二系统的视角
+
+-----------------------------------------------------------
+BGM：
+TOMORROW IS THE FUTURE
+INFINITE PERSPECTIVE
+EVENING FALL HARP
+OVERCOMING THE ODDS PIANO
+```
+
+UP： [司文的不思議世界](https://space.bilibili.com/436642180)，简介：
+
+```
+少与人纠缠，多看大自然。
+```
+
+## [为什么梦比优斯的离开，会让人难过这么多年](https://www.bilibili.com/video/BV1KpcCznEpA)
+
+![为什么梦比优斯的离开，会让人难过这么多年](images/g9fiiedw.png)
+
+```
+这期视频可能有点慢。没有特别激烈的剪辑，也没有很多情绪爆点。只是想认真聊一件很多人当年没有意识到的事。梦比优斯离开的那一天，其实很像一次毕业。也许不会有很多人看到最后。但如果不把这些话讲出来，我可能会一直觉得有点遗憾。如果你也曾经在某个晚上，想起GUYS一起吃饭、一起训练、一起战斗的日子。那这期视频，可能就是写给你的。
+```
+
+UP： [光之子零](https://space.bilibili.com/314184082)，简介：
+
+```
+一只根据自己爱好制作出自己喜欢的视频的up主！
+```
+
+## [挂最多的水果是什么？](https://www.bilibili.com/video/BV1qKwMzMETA)
+
+![挂最多的水果是什么？](images/pv6baabm.png)
+
+UP： [小时好食禄](https://space.bilibili.com/49923662)，简介：
+
+```
+小时祝你永远通畅
+```
+
+## [我的世界：瞬秒双不死图腾，就问还有谁？](https://www.bilibili.com/video/BV1pmwxzPEHz)
+
+![我的世界：瞬秒双不死图腾，就问还有谁？](images/v7hbsbz7.png)
+
+```
+关于版本问题，没有特别声明的特性，默指java版。
+基岩版≈网易版基岩版（落后国际版一个版本）=手机版
+视频中出现的种子，特性，创意等收集于网络（油管、MC反馈论坛、wiki），非本人首发
+材质：原版材质。
+光影：ComplementaryShaders
+恐龙坐骑：不是皮肤，是国际基岩版自定义角色里的下衣装扮
+```
+
+UP： [图图图酱吖](https://space.bilibili.com/470839152)，简介：
+
+```
+营销号带师+刑部尚书，力争有趣，保证没用
+```
+
+## [橘前辈回归！逐帧分析OP2！更大的世界观？剧情小bug？三骑背后什么势力？【Who说特摄】《假面骑士ZZZ》第26集吐槽](https://www.bilibili.com/video/BV1S2w3zqEKz)
+
+![橘前辈回归！逐帧分析OP2！更大的世界观？剧情小bug？三骑背后什么势力？【Who说特摄】《假面骑士ZZZ》第26集吐槽](images/ji3bamah.png)
+
+```
+-
+```
+
+UP： [卡密达Who](https://space.bilibili.com/109319230)，简介：
+
+```
+Make your own future, make your own past, it&#039;s all right now
+```
+

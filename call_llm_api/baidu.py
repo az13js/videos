@@ -13,8 +13,10 @@ import os
 
 os.environ['QIANFAN_ACCESS_KEY']='<参考百度相关文档获取的access key>'
 os.environ['QIANFAN_SECRET_KEY']='<参考百度相关文档获取的secret key>'
-os.environ['BAIDU_MODEL']='ERNIE-Speed-128K' if os.environ.get('BAIDU_MODEL') is None else os.environ.get('BAIDU_MODEL')
+os.environ['BAIDU_MODEL']='ERNIE-Speed-8K' if os.environ.get('BAIDU_MODEL') is None else os.environ.get('BAIDU_MODEL')
+
 #os.environ['BAIDU_MODEL']='ERNIE-Lite-8K'
+#os.environ['BAIDU_MODEL']='ERNIE-Speed-128K'
 
 import qianfan
 import argparse

@@ -4,36 +4,11 @@ import sys
 from typing import Any
 import os
 import shutil
-
-os.environ['BAIDU_MODEL']='ERNIE-Lite-8K'
-from baidu import runModel
+from local_llm import runModel
+from config import get_filter_list
 
 def judge(json_str: str) -> bool:
-    attr_list = [
-        '视频简介或UP主个人简介中存在商务合作内容/联系方式/聊天群/粉丝群号',
-        '视频或UP简介中涉及关注/点赞/收藏',
-        '视频或UP简介中涉及不要关注/不要点赞/不要收藏',
-        '直接或间接涉及手机/电脑/扫地机器人/HiFi音响等数码产品相关软件或硬件评测',
-        '涉及商业的营销/卖课程/卖教程/卖下载资源',
-        '明确表明利用AI生成视频',
-        '视频或个人简介出现或带有Bilibili以外的，如天猫/淘宝/微博/微信公众号/转转等第三方平台信息',
-        '视频转载自第三方网络的，如Youtube、抖音、知乎',
-        '来源不明，标注内容来自网络但是不标注具体来源',
-        '视频和UP减价涉及发私信/评论领取资源等内容',
-        '在视频介绍/个人简介中有疑似QQ群号码的数字编号',
-        '在视频介绍/个人简介中有疑似粉丝群的',
-        '在个人简介中有合作方式的',
-        '视频和UP简介涉及ins账号',
-        '视频或UP主简介涉及提供房产、培训等无论商业/非商业或收费/非收费的咨询',
-        '简介/视频介绍里有描述加V或加v的意向或文案的，例如："V:xxxx"或"v:xxxx"',
-        '提示用户不要忘了关注的',
-        '账号信息中备注了商务或合作字样',
-        '简介里写合作V或合作v的',
-        '简介里备注商务微信的',
-        '要求/建议去特定邮箱投稿/公众号等Bilibili以外渠道投稿',
-        '视频涉及B站AI视频创作大赛'
-    ]
-    for attr in attr_list:
+    for attr in get_filter_list():
         prompt = f'''
 视频信息：
 ```json

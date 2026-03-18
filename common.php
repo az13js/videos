@@ -232,6 +232,7 @@ function saveVideo(array $video): void {
     ]);
     if ($result === false) {
         saveLog('数据库语句INSERT INTO执行失败: ' . $sqlite3dbPath);
+        unlink($imagePath);
         return;
     }
     $stmt = null;
@@ -377,4 +378,42 @@ function buildResult(array $video, array $attrs): ?int {
         }
     }
     return 1;
+}
+
+/**
+ * 获取未被标注的视频列表
+ * @param int $limit 获取数量
+ * @return array 视频列表
+ */
+function getUnlabeledVideos(int $limit = 10): array {
+    initDb();
+    $db = new PDO('sqlite:' . SQLITE3_FILE);
+    if ($db === false) {
+        saveLog('数据库打开失败: ' . SQLITE3_FILE);
+        return [];
+    }
+
+    $sql = "SELECT v.id, v.title, v.videoUrl, v.description, v.authorName, v.authorDescription, v.authorPageUrl
+            FROM videos v
+            LEFT JOIN videoResults vr ON v.id = vr.videoId
+            WHERE vr.id IS NULL
+            ORDER BY v.id DESC
+            LIMIT :limit";
+
+    $stmt = $db->prepare($sql);
+    if ($stmt === false) {
+        saveLog('数据库语句SELECT准备失败: ' . $sql);
+        return [];
+    }
+
+    $stmt->bindValue(':limit', $limit, PDO::PARAM_INT);
+    $result = $stmt->execute();
+
+    if ($result === false) {
+        saveLog('数据库语句SELECT执行失败: ' . $sql);
+        return [];
+    }
+
+    $videos = $stmt->fetchAll(PDO::FETCH_ASSOC);
+    return $videos ? $videos : [];
 }

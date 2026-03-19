@@ -43,9 +43,13 @@ function main(): void
 
     if (!is_dir($normalDir)) {
         mkdir($normalDir, 0766, true);
+    } else {
+        cleanDir($normalDir);
     }
     if (!is_dir($spamDir)) {
         mkdir($spamDir, 0766, true);
+    } else {
+        cleanDir($spamDir);
     }
 
     // 批量加载未标注视频

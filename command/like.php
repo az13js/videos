@@ -4,10 +4,10 @@
 $root = __DIR__ . '/..';
 
 // 图片文件夹名称
-$mdImgDir = 'images';
+$mdImgDirName = 'images';
 
 // Markdown 图片文件夹
-$mdImgDir = $root . '/' . $mdImgDir;
+$mdImgDir = $root . '/' . $mdImgDirName;
 
 // 视频信息目录
 $videosDir = $root . '/NaiveBayes/predicted_normal';
@@ -49,7 +49,7 @@ foreach (readVideosJsonFilesConfigs($videosDir) as $config) {
     $imageFileName = pathinfo($config['imagePath'], PATHINFO_BASENAME);
     // 拷贝文件到markdown图像目录
     copy($config['imagePath'], $mdImgDir . '/' . $imageFileName);
-    $markdownText .= "![{$config['title']}]($mdImgDir/{$imageFileName})\n\n";
+    $markdownText .= "![{$config['title']}]($mdImgDirName/{$imageFileName})\n\n";
     if (!empty($config['description'])) {
         $markdownText .= "```\n";
         $markdownText .= "{$config['description']}\n";

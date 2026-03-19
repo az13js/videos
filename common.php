@@ -6,7 +6,7 @@ define('IMAGE_WEB_DIR', '/static/images') or exit('定义 IMAGE_WEB_DIR 失败')
 # 图片文件存储路径
 define('IMAGE_SAVE_DIR', __DIR__ . '/public/static/images') or exit('定义 IMAGE_SAVE_DIR 失败');
 # 日志文件路径
-define('LOG_FILE', __DIR__ . '/api_event.log') or exit('定义 LOG_FILE 失败');
+define('LOG_FILE', __DIR__ . '/event.log') or exit('定义 LOG_FILE 失败');
 # 特征配置文件
 define('FEATURE_CONFIG_FILE', __DIR__ . '/config.json') or exit('定义 FEATURE_CONFIG_FILE 失败');
 
@@ -267,7 +267,7 @@ function getCondfig(): array {
 }
 
 function callLLM(string $prompt): ?string {
-    usleep(100000);
+    sleep(1);
 /* 参考文档：https://docs.bigmodel.cn/cn/guide/models/free/glm-4.7-flash
 curl -X POST "https://open.bigmodel.cn/api/paas/v4/chat/completions" \
 -H "Content-Type: application/json" \
@@ -416,4 +416,53 @@ function getUnlabeledVideos(int $limit = 10): array {
 
     $videos = $stmt->fetchAll(PDO::FETCH_ASSOC);
     return $videos ? $videos : [];
+}
+
+function loadUnlabeledVideos(int $limit = 1000): array {
+    initDb();
+    $db = new PDO('sqlite:' . SQLITE3_FILE);
+
+    $sql = <<<'SQL'
+SELECT
+    v.id,
+    v.title,
+    v.description,
+    v.authorName,
+    v.authorDescription,
+    v.videoUrl,
+    v.authorPageUrl,
+    v.imagePath
+FROM videos v
+LEFT JOIN videoResults vr ON v.id = vr.videoId
+WHERE vr.id IS NULL
+ORDER BY v.id ASC
+LIMIT :limit
+SQL;
+
+    $stmt = $db->prepare($sql);
+    $stmt->bindValue(':limit', $limit, PDO::PARAM_INT);
+    $stmt->execute();
+    return $stmt->fetchAll(PDO::FETCH_ASSOC);
+}
+
+function loadLabeledSamples(): array {
+    initDb();
+    $db = new PDO('sqlite:' . SQLITE3_FILE);
+
+    $sql = <<<'SQL'
+SELECT
+    v.id,
+    v.title,
+    v.description,
+    v.authorName,
+    v.authorDescription,
+    vr.result
+FROM videos v
+INNER JOIN videoResults vr ON v.id = vr.videoId
+ORDER BY v.id ASC
+SQL;
+
+    $stmt = $db->prepare($sql);
+    $stmt->execute();
+    return $stmt->fetchAll(PDO::FETCH_ASSOC);
 }

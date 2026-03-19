@@ -1,0 +1,6 @@
+BayesTextSegmenter.php
+BayesTextSegmenter_demo.php
+composer.lock
+dict
+jieba_demo.php
+vendor

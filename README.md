@@ -1,478 +1,346 @@
 # Bilibili推荐的视频
 
-## [【战争雷霆】“夜来一笑赛场下，终是脱胎换骨时！”ZTZ-96B 历史&简评&实战](https://www.bilibili.com/video/BV16SwvzXEpb)
+## [全员发疯！脑洞突破天际！沉浸式解说《非快速眼动之窗》](https://www.bilibili.com/video/BV1SUAJzwEDn)
 
-![【战争雷霆】“夜来一笑赛场下，终是脱胎换骨时！”ZTZ-96B 历史&简评&实战](images/69bc3cd8c1799.png)
+![全员发疯！脑洞突破天际！沉浸式解说《非快速眼动之窗》](images/69bf84a9752b9.png)
 
-```
-稍麦	（内蒙古地区读作 Shāo Mài 或 Shāo Měi），是一种在内蒙古各城市流传很久、一直不衰的传统风味食品，稍麦是一种面制包馅的笼蒸点心。其外形束折如花，皮薄馅嫩。和中国南方地区的传统小吃“烧卖”外形类似，但是所用馅料不同，内蒙古地区的稍麦只用牛羊肉和	大葱	，南方烧卖馅料种类繁多，不是一种食品。后来又写作“	烧麦	”、“	烧卖	”、“	稍美	”“稍梅”、“	烧梅	”、“稍卖”等。	传说，明末清初之时，在归化城中，大南街大召寺，有哥俩以卖包子为生，后来哥哥娶了媳妇，嫂嫂要求分家，包子店归哥嫂，弟弟在店里打工。弟弟除了吃饱以外，再无分文收入，为了今后娶媳妇成家，弟弟在包子上锅蒸时，就做了些薄皮开口的“包子”，区分开卖，卖包子的钱给哥哥，稍带卖的钱积攒起来。久而久之，很多人喜欢这个不像包子的包子，取名“捎卖”，捎带着卖之意。
-	另传，早年这种蒸笼小点都是在茶馆出售，食客一边喝着浓酽酽的砖茶，配以各色糕点，吃着热腾腾刚出笼的蒸笼点心，因其边稍皱折如花，称为“稍美”，意即“边稍美丽”。又因在茶馆“捎带着卖”，故又称其为“捎卖”。
-	再后来通过晋商传到京津等地，称为“稍麦”，名扬北京城。当时，在北京城前门一带，贩卖稍麦的饭馆门前悬挂的招牌上，往往标有“归化城稍麦”字样。后来经过改良演变向南传播就改叫“烧卖”了。十四世纪朝鲜《朴通事》记载过“素酸馅稍麦”，其注：“以麦面做成薄片，包肉，蒸熟，与汤食之，方言谓之稍麦......以面作皮，以肉为馅，当顶作为花蕊。”
-	《清平山堂话本.快嘴李翠莲记》：“烧卖、匾食有何难，三汤两割我也会。”匾食，饺子。《嘉定县续志》：“纱帽以面为之，边薄底厚，实以肉馅，蒸熟即食最佳。因形如纱帽，故名。”按“纱帽”乃“稍卖”之讹读。
-	《儒林外史》第十回：“席上上了两盘点心——盘猪肉心的烧卖，一盘鹅油白糖蒸的饺儿。”
-	傅崇矩《成都通览.成都之食品类及菜谱》：“各样烧卖，大肉烧卖、地菜烧卖、冻菜烧卖、羊肉烧卖、鸡皮烧卖、野鸡烧卖、金钩烧卖、素芡烧麦、芝麻烧麦、梅花烧麦、莲蓬烧麦。”
-	1937年完成的《绥远通志稿》中有这样的记载：“惟室内所售捎卖一中，则为食品中之特色，因茶肆附带卖之。俗语谓‘附带’为捎，故称捎卖。且归化烧麦，自昔驰名远近。外县或外埠亦有仿制以为业者。而风味稍逊矣。” 现如今稍美已成了美味可口的主食，所以一般人约定俗成叫“烧麦”了，“稍麦”一词虽仍沿用，“烧卖”、“烧麦”的名称也出现了，不过在内蒙古西部地区“稍美”在很多店铺招牌上一直沿用。
-```
-
-UP： [克拉拉_伊万诺维奇](https://space.bilibili.com/35725498)，简介：
-
-```
-克拉拉 伊万诺维奇，Gaijin 战争雷霆视频首位哔哩哔哩渠道认证合作频道UP主，个人势VUP
-```
-
-## [蛋白粉常见的4个错误喝法](https://www.bilibili.com/video/BV1QSwizkEVD)
-
-![蛋白粉常见的4个错误喝法](images/69bc3cd8c7912.png)
-
-```
-1、边练边喝
-2、过于节约
-3、只在练后喝
-4、摄取过量
-```
-
-UP： [烧毁一切就是美](https://space.bilibili.com/1024129080)，简介：
-
-```
-一个热爱健身的上班族
-东京健美公开赛冠军
-健身22年 社会学硕士
-职业：食品安全 食品表示诊断士
-```
-
-## [能否全程硬邦邦通关艾尔登法环？【BOSS随机】](https://www.bilibili.com/video/BV1dawCzTEPC)
-
-![能否全程硬邦邦通关艾尔登法环？【BOSS随机】](images/69bc3cd972810.png)
-
-```
-非攻略教学、纯看个乐、请勿较真
-————————————————
-视频灵感来源：ymfah、DC伯爵、Distortion2
-游戏录制本：1.16.1
-感谢提供MOD安装教学和使用方法的热心水友 @梅琳娜的刀 
-
-【本期使用的MOD】铁壶香mod由梅刀制作，无N网链接
-MC小马外观MOD：https://www.nexusmods.com/eldenring/mods/3017
-堡垒之夜舞蹈MOD：https://www.nexusmods.com/eldenring/mods/3269
-```
-
-UP： [路可一下](https://space.bilibili.com/29233734)，简介：
+UP： [中二病草蜢](https://space.bilibili.com/549936706)，简介：
 
 ```
-通个关都费劲的下饭up！
+中年上班族不容易，尽量一周一更
 ```
 
-## [碳水哥: 中国的茶差点毁了我的一天...直到遇见了那碗工友拌面](https://www.bilibili.com/video/BV1RbwrzhEX1)
+## [人类的大脑真的脆弱得不堪一击……吗？](https://www.bilibili.com/video/BV1ofAFzXEPm)
 
-![碳水哥: 中国的茶差点毁了我的一天...直到遇见了那碗工友拌面](images/69bc3ce9ef982.png)
+![人类的大脑真的脆弱得不堪一击……吗？](images/69bf858a392ec.png)
 
-```
-广州这个地方，压根不会跟你客客气气地介绍自己。它就像我在圣地亚哥的邻居。我还没见过他们人呢，每天早上就先听见他们那啥的声音，完事儿紧接着就是扯着嗓子对骂。广州就是那个味儿……闹腾、带劲儿、还野得很，特别是说到吃面这事儿的时候！
-
-这期视频，我就在广州的老城区里瞎转悠，想找找那种老式茶楼的影子。就那种三教九流都聚在一块儿，嚼舌根、发牢骚、哈哈笑，没准儿还比比谁裤裆里家伙事儿大的地方。谁知道呢。反正，我是没找着。结果你猜我找着啥了？一家卖“满清十大酷刑”用具的！这玩意儿能是凉茶？！好家伙，你嘬一小口，感觉浑身上下的细胞都在喊救命。我喝完也没变成蜘蛛侠那样的变异英雄，连海王都没混上。你说海王那角色，裤裆里揣条你知我知的东西，得多别扭？所以，对，啥超能力没有，就剩下遭罪了。我觉得我受了这份罪，怎么着也该给我发个奖章啥的。结果广东人喝这个竟然是图个乐呵？！这下好了，我知道我那个“小黑屋”审讯室该添置啥硬核饮品了。准备好去会会那个王八蛋比尔·盖茨和他岛上那帮狐朋狗友了。我是说，本来想买点后门专用的玩意儿招待他，但咱都知道那货就好这口。我要真那么干了，他还不得爱上我？我可绝对不想在审他的时候，被这摊狗屎给赖上。说不定现在正有人站他后脑勺那儿，对着他脖子吹气儿呢！
-
-得，不扯了，接着溜达。
-
-钻进广州的老巷子里，两边是啥都卖又啥都没卖的铺子，还有埋头猛嗦、吃着全天下最香蒸汽早餐的打工人。中国人懂的这种“蒸”汽，我们那边儿呢？是轮船冒的烟，载着人去各种岛上浪。是川普总统事儿不顺的时候，从耳朵眼儿里喷出来的气。是比尔·克林顿那根“腊肠”因为操劳过度直冒热气，你懂的？那老小子真是个老色胚，啥都干得出来！腥味儿十足的希拉里、奥巴马，只要是带眼儿的都行。
-
-打住。这儿到处是历史，但不是博物馆里玻璃柜子隔着的那种，是藏在生活习惯里、舌尖味道上、还有大伙儿围着饭桌那股热乎劲儿里的。他们看吃的那眼神，跟我一模一样。他们简直就跟我一个德行。我喜欢。我觉着吧，他们也肯定跟我一样，爱死了2001年版的安吉丽娜·朱莉。每天脑子里都离不开她没穿衣服的样子。也会幻想2001年的安吉丽娜·朱莉光溜溜躺在床上，求着你快点过去。广州的父老乡亲们，就冲这点，咱跟亲哥们儿没两样。这也是我这么爱这座城市的原因之一。
-
-又扯远了。说回那个肠粉摊儿。人多得不行，老板手脚麻利得吓人。吃客们脸上都挂着那种心满意足的表情，跟我前女友难得几次……你懂的……之后的表情完全两码事。做肠粉那师傅快得跟闪电似的！人家一点儿不嘚瑟，不炫技，就闷头干，速度快得飞起，跟过个普通的星期二一样。这事儿要是搁川普身上，他能吹一辈子。那家伙最爱显摆。不过话说回来，川普也不是没本事，他撒谎就挺牛的。什么“我一上台就没战争了”，记得不？我们这种傻子还真信了。也许他说的没战争是指不跟他老婆干仗了吧。谁知道呢。反正，他一直就是个演员，《小鬼当家》里是不是有他？现实里，这帮人全是弯的演员，哪儿哪儿都能塞东西。跟这肠粉可没法比，这肠粉看着就纯！软、滑、嫩、吃着还舒坦。就跟2001年安吉丽娜·朱莉的皮肤似的，滑溜溜的！为啥她光着的样子老在我脑子里转悠？难道我跟那帮当官的一样，也变态了？看来我真得多灌点那个广东凉茶治治这毛病！咳，我这是说哪儿去了。这肠粉也不是十全十美，里面的猪肝毁所有！
-
-那天，我遭老罪了。喝了那碗“悲伤牌”凉茶，个人状态栏里悲伤值+5。幸亏我人在广州，这地儿做的东西，神仙吃了都点赞，价钱还便宜得跟白捡一样。感觉就像我一脚踩进了天堂，在这儿看不见比尔·盖茨和杰夫·贝佐斯躲一边儿亲嘴儿，顺带商量下一座岛买哪儿的糟心画面。
-
-后来，我钻进了一家全是打工人光顾的面馆，人挤得满满当当，座儿都没有，所有迹象就指着一条：这家店，是来真格的！
-
-广州啊，你这头漂亮又带劲儿的野兽！
-```
-
-UP： [ThatEvanGuy](https://space.bilibili.com/3546939243104552)，简介：
-
-```
-一个普通人，硬是收不倒脑壳，一天到黑都在幻想比尔·克林顿遭希拉里·克林顿打屁股。
-```
-
-## [『锁r&b』撞个南墙嘛丨结局是劳燕分飞，各分南北](https://www.bilibili.com/video/BV1hQw4zJEpZ)
-
-![『锁r&b』撞个南墙嘛丨结局是劳燕分飞，各分南北](images/69bc3cea5104e.png)
-
-```
-原唱：灼夭
-r&b原唱：呆小帅
-翻唱：70_Kirin
-后期：@牧子Assyria  
-歌词排版：微辣酸甜
-```
-
-UP： [70_Kirin](https://space.bilibili.com/3690988065262237)，简介：
-
-```
-【404-project】山海经不是食谱，但我可以给你捉其他神兽！
 ```
+人类的大脑真的不堪一击……吗？
 
-## [【GTAOL】上线送钱送资产送礼物，还有300万过气狂雷免费，节日庆典最后一周！本周游戏更新福利与折扣，最多六倍奖励活动~ gtaonline游戏](https://www.bilibili.com/video/BV13vwrztEU4)
+参考来源：
+[1] The man with a shattered world.Alexander Luria
+[2] https://www.patreon.com/posts/ia-byl-ubit-2-no-128453032
+[3] https://youtu.be/nCWuPMUPyRk?si=Lts5e2OOUAxLTNu4
 
-![【GTAOL】上线送钱送资产送礼物，还有300万过气狂雷免费，节日庆典最后一周！本周游戏更新福利与折扣，最多六倍奖励活动~ gtaonline游戏](images/69bc3cea526b3.png)
-
-```
-活动时间：3.19-3.26
+BGM来源：
+Song beat —— G32GamesOnScratch
+坂本龍一 -—— Replica
+Abstract Electronic —— Monume
+the Pig and the Wardrobe —— Ville Pallonen
+Hide n Seek Impostor —— Friday Night Funkin
 ```
 
-UP： [飞天香鸡腿](https://space.bilibili.com/14606305)，简介：
+UP： [李白尼的猜想](https://space.bilibili.com/1195284234)，简介：
 
 ```
-无趣的我，选择音乐与游戏
+多点好奇，多点猜想，多点意思。
 ```
 
-## [“只是不由得做了个短暂的梦”](https://www.bilibili.com/video/BV1NLw3zfE5R)
+## [鸡爪亚瑟极限压经济展示，100%经济第五](https://www.bilibili.com/video/BV1FiAczbExe)
 
-![“只是不由得做了个短暂的梦”](images/69bc3d917d008.png)
+![鸡爪亚瑟极限压经济展示，100%经济第五](images/69bf85d4242e3.png)
 
 ```
-曲：Jane doe
-唱：RFFFF一条杠
-吉他：不到二百块的烧火棍
-混响：纯天然绿色楼道。
+鸡爪亚瑟极限压经济展示，100%经济第五
 ```
 
-UP： [RFFFF-](https://space.bilibili.com/409278060)，简介：
+UP： [磊哥游戏](https://space.bilibili.com/268941858)，简介：
 
 ```
-VOCALOID术力口jpop重度依赖
-温柔且抽象的普通人，希望能让你感到快乐
-网瘾大 我会到处乱跑…
-你永远不知道我下一期更什么。
+我是磊锋
 ```
 
-## [我愿称之为剑神一笑](https://www.bilibili.com/video/BV1ZXwvzDE3m)
+## [698元omakase晚宴，另加2只富贵溏心虾秒惊艳，拍到相机内存告急](https://www.bilibili.com/video/BV1NZwezbESE)
 
-![我愿称之为剑神一笑](images/69bc3d921f458.png)
+![698元omakase晚宴，另加2只富贵溏心虾秒惊艳，拍到相机内存告急](images/69bf85d586601.png)
 
 ```
-刚刚打出来的，到关底自己都打笑了所以录了给大家分享一下
+698元omakase晚宴，另加2只富贵溏心虾秒惊艳，拍到相机内存告急
 ```
 
-UP： [三天两觉是也](https://space.bilibili.com/4533917)，简介：
+UP： [温油辣辣U](https://space.bilibili.com/1244310984)，简介：
 
 ```
-不知名作家，主要作品《惊悚乐园》《纣临》《贩罪》《盖世双谐》《鬼喊抓鬼》《二流侦探和猫》等。
-微博：@三天两觉是也
+hello，这里是辣辣U
+一个爱吃早茶的靓女
+只体验，不接餐厅探店广告
+理性种草 感谢关注～
 ```
 
-## [不死途上线，飞霄焕发第二春！最强追击队6金0T天谴之矛](https://www.bilibili.com/video/BV1M1wazfEHg)
+## [美伊冲突给世界启示，不会造物的终将衰落](https://www.bilibili.com/video/BV1GbApzCEJG)
 
-![不死途上线，飞霄焕发第二春！最强追击队6金0T天谴之矛](images/69bc3e259d2e9.png)
+![美伊冲突给世界启示，不会造物的终将衰落](images/69bf87fc53435.png)
 
 ```
-感谢@小猛的河马先生  的解说&视频制作
-感谢@T0级飞霄lover  的指导
-追击队的观赏性太高了，简直超乎想象！
+现在一边是美国为了维持霸权体系不倒，在向全球输出战争和风险。而另一边，则是中国依托完善的全工业链路，在向世界提供最为稀缺的确定性。今天我们就来聊一聊，这场意外的伊朗战争，会给未来的国际竞争带来哪些启示？
 ```
 
-UP： [缘来我是皮卡丘](https://space.bilibili.com/356747116)，简介：
+UP： [麻薯波比呀](https://space.bilibili.com/703186600)，简介：
 
 ```
-真诚配上任何一张牌都是王炸，唯独单出是死局
+你装模作样的戴我的九筒做什么？
 ```
 
-## [青年大学习：快递丢失维权](https://www.bilibili.com/video/BV1r5wXz6EUs)
+## [【寄生虫5】食脑虫：与狂犬病相当的致命杀手，啃噬人的大脑，致死率高达98%！](https://www.bilibili.com/video/BV1EPwyz5Egm)
 
-![青年大学习：快递丢失维权](images/69bc3e2600b72.png)
+![【寄生虫5】食脑虫：与狂犬病相当的致命杀手，啃噬人的大脑，致死率高达98%！](images/69bf88ad73035.png)
 
 ```
-新人UP有说的不好的请大家多包涵~
-欢迎在评论区继续补充
-```
+参考资料：
+医学寄生虫学 郑葵阳 9787030513847
+人体寄生虫学 李雍龙 9787117099714
+人体寄生虫学 诸欣平，苏川 9787117266604
+-Fowler, M.; Carter, R. F. (September 1965). "Acute pyogenic meningitis probably due to Acanthamoeba sp.: a preliminary report". The BMJ. 2 (5464): 740–2.
+-郑善子. 棘阿米巴引起的肉芽肿性阿米巴脑炎研究进展[J]. 延边大学医学学报,2005,28(4):304-305
+-Mackey-Lawrence NM, Petri WA Jr. Amoebic dysentery. BMJ Clin Evid. 2011 Jan 13;2011:0918
+-Nakada-Tsukui, K.; Nozaki, T. Immune Response of Amebiasis and Immune Evasion by Entamoeba histolytica. Front. Immunol. 2016, 7, 175
+-Morán, P.; Serrano-Vázquez, A.; Rojas-Velázquez, L.; et al. Amoebiasis: Advances in Diagnosis, Treatment, Immunology Features and the Interaction with the Intestinal Ecosystem. Int. J. Mol. Sci. 2023, 24, 11755.
+-Cui Z, Li J, Chen Y, Zhang L. Molecular epidemiology, evolution, and phylogeny of Entamoeba spp. Infect Genet Evol. 2019 Nov;75:104018.
+-Pervin N, Sundareshan V. Naegleria Infection and Primary Amebic Meningoencephalitis. 
+-Güémez A, García E. Primary Amoebic Meningoencephalitis by Naegleria fowleri: Pathogenesis and Treatments. Biomolecules. 2021 Sep 6;11(9):1320.
+-The Epidemiology and Clinical Features of Balamuthia mandrillaris Disease in the United States, 1974-2016. Clin Infect Dis. 2019 May 17;68(11):1815-1822.
+-The Epidemiology and Clinical Features of Non-Keratitis Acanthamoeba Infections in the United States, 1956-2020. Open Forum Infect Dis. 2023 Jan 12;10(1):ofac682.
+中国疾病预防控制中心：阿米巴痢疾相关材料.
+美国CDC：Free Living Amebic Infections. 
+广东疾控：揭秘“食脑虫”狒狒巴拉姆希阿米巴：它如何不知不觉地潜入你的大脑？
+人卫助手：致病性自由生活阿米巴感染
+光明网：5岁女童感染“食脑虫”昏迷不醒，医生紧急提醒 
+扬子晚报：又一例“食脑虫”！男童打水仗后高烧不退，母亲求救 
 
-UP： [咕噜耄](https://space.bilibili.com/2930404)，简介：
-
-```
-这里是咕噜！分享点你可能用到的知识~  
+ 素材：freepik、UC San Francisco (UCSF)、Centers for Disease Control and Prevention (CDC)、网络图片
+BGM：Sally Gardens、Various Artists-A大调奏鸣曲、鬼球、孤独圆舞曲、The City of Prague Philharmonic Orchestra-Arrivalof the Birds、On the Nature of Daylight、A Kaleidoscope Of Mathematics、I Feel Everything、Lucy Is Going Out、ebola、Myth、The Docking Scene
 ```
 
-## [一筐番茄，引发的做饭！](https://www.bilibili.com/video/BV1jKwMzuEXS)
+UP： [神奇菌汤锅](https://space.bilibili.com/274724919)，简介：
 
-![一筐番茄，引发的做饭！](images/69bc3e26f2917.png)
-
-UP： [魔鬼厨房Neo](https://space.bilibili.com/174890586)，简介：
-
 ```
-吃饭，是最简单且容易让我开心的事。
-独白，是无病呻吟，是自以为是，是矫情。
-也是无数掉进死结的自我开解。
-顺手能安慰你，也好。
+细菌也是菌
 ```
 
-## [从威震西北到汉室巨奸，从前准汉末四杰到暴戾无仁，万字解析董卓的一生](https://www.bilibili.com/video/BV1ZVwvz7EBG)
+## [智斗](https://www.bilibili.com/video/BV1CwAnzpEKg)
 
-![从威震西北到汉室巨奸，从前准汉末四杰到暴戾无仁，万字解析董卓的一生](images/69bc3e27e13bd.png)
+![智斗](images/69bf88ad74d74.png)
 
 ```
-素材来源《三国演义》
+智斗这一块./
 ```
 
-UP： [凉州经略使](https://space.bilibili.com/592204565)，简介：
+UP： [Horcus丶](https://space.bilibili.com/3546759766739809)，简介：
 
 ```
-东北野人，疏懒成性，某才疏学浅，望诸君莫笑。
+【TIMING侠】旗下艺人
+我爱我的中国粉丝们！Vamos！
+点?公粽浩：TIMING电竞俱乐部
+欧服6次排行榜TOP1赋能
 ```
 
-## [【派克特】“我不喜欢撸铁 ，我锻炼的方式是**” | SoulSense TWH Freestyle](https://www.bilibili.com/video/BV1y5wezZEEk)
+## [给大家鞠躬了！](https://www.bilibili.com/video/BV1G6AKzcED9)
 
-![【派克特】“我不喜欢撸铁 ，我锻炼的方式是**” | SoulSense TWH Freestyle](images/69bc3e288eeea.png)
+![给大家鞠躬了！](images/69bf88af61591.png)
 
 ```
-【派克特】“我不喜欢撸铁 ，我锻炼的方式是**” | SoulSense TWH Freestyle
+谢谢大家的鼎力支持
 ```
 
-UP： [SoulSenseTWH](https://space.bilibili.com/39683342)，简介：
+UP： [意识DT](https://space.bilibili.com/449704680)，简介：
 
 ```
-HipHop文化传播频道 全平台@SoulSense TWH 文化潮牌SoulSense旗下HipHop节目
+DT陪练工作室24小时接待绿泡泡DT23659         配电脑淘宝搜“创琦电子竞技”fireman1177
 ```
 
-## [小时候怕她，长大敬她，现在懂她！苏妲己视角看《封神榜》！（上）](https://www.bilibili.com/video/BV1anw9zxENT)
+## [[ONHWA] 生牛脊骨+生牛脾 咀嚼音!](https://www.bilibili.com/video/BV1KnAczzE5X)
 
-![小时候怕她，长大敬她，现在懂她！苏妲己视角看《封神榜》！（上）](images/69bc3e28daa49.png)
+![[ONHWA] 生牛脊骨+生牛脾 咀嚼音!](images/69bf88b09153f.png)
 
 ```
-我是温碧霞版苏妲己，一心只想做女帝，或许是因为我这个角色，诞生在盛产职业女性的TVB，宋明话本小说后，人人交口称恶的祸国妖妃，都不想争宠，只想夺权，没有恋爱脑，只有事业心！从2001年诞生至今，25年过去，我这版苏妲己的人设依然遥遥领先，逐渐清醒的小观众你有没有发现，这版《封神榜》其实是对君权、父权和男权的集中反讽，观众看不懂时，编剧获得了“安全”，观众看得懂时，编剧获得了“高明”。单从女性角度看，这剧就好似农村老家的大席，听话的女人在后厨，不听话的女人在盘子里。
+您好，我是Onhwa。❤️
+今天的菜单是生牛脊骨+生牛脾。
+请点赞~谢谢~
 ```
 
-UP： [我是申时雨](https://space.bilibili.com/7698879)，简介：
+UP： [ONHWA_Official](https://space.bilibili.com/1309848145)，简介：
 
 ```
-主要做有的是力气、手段、欲望、野心的女性影视角色，尽量还原角色本来面目。
+Eating Show.
 ```
 
-## [伊朗最高指挥官拉里贾尼遇害，以色列疯狂斩首，打开潘多拉魔盒，伊朗局势持续恶化](https://www.bilibili.com/video/BV1ZHwrzKEmZ)
+## [恐鳄](https://www.bilibili.com/video/BV1ftw3zSEj8)
 
-![伊朗最高指挥官拉里贾尼遇害，以色列疯狂斩首，打开潘多拉魔盒，伊朗局势持续恶化](images/69bc3e29759b4.png)
+![恐鳄](images/69bf890a0a149.png)
 
 ```
-拉里贾尼的死，可能让这场战争会被拖得更长。从拉里贾尼死后，革命卫队可以迅速发动更大规模的反击来看，革命卫队去中心化的指挥体系，并没有陷入混乱，仍然还是可以发动有效反击。
-以色列对拉里贾尼实施斩首行动，恐怕也是为了不让美国能轻易脱身。
-具体本视频会来详细分析，感谢赞赏支持。
+巨型鳄鱼
 ```
 
-UP： [星话大白](https://space.bilibili.com/2233213)，简介：
+UP： [古法造物主](https://space.bilibili.com/1352644070)，简介：
 
 ```
-不接软文广告，视频文案首发“大白话时事”公众号。
+本站只有这个，兄弟姐妹们。不要被小人蒙蔽了双眼，
+两人制作完成，并不高产
 ```
 
-## [《抱歉 我没开挂》](https://www.bilibili.com/video/BV1iFwBz9Ert)
+## [求生之路2 绝望的一批！写专单通神图：恐怖之旅](https://www.bilibili.com/video/BV1S9wfzMEyz)
 
-![《抱歉 我没开挂》](images/69bc3e2976d31.png)
+![求生之路2 绝望的一批！写专单通神图：恐怖之旅](images/69bf892c8c281.png)
 
 ```
-作词、翻唱：IPx的粉红豹
-原曲：徐良、汪苏泷《后会无期》
-视频素材来自网络
+早上好所有人，smoker除外
+也是一张经典老图！场景很是丰富有趣，中世纪城堡很有意思！但是作者稍微修改了导演系统，导致m2小僵尸很多，m3开完机关以后自带多特需要注意一下。
+另外可能是因为我个人原因，这图m2到了楼梯那里就容易闪退。这导致素材录制异常艰难，本来难度就高！希望大家多多三连回血
+治疗跳舞mod：[xdR] California Girls 一代连喷mod: toz87 十五连狙mod：Survivalist's M1 Garand 马格南：MW2019: .50 GS 地图名称：Tour of Terror 地图名字我讲了两遍，再问拖出去被smoker撅嗣！！
 ```
 
-UP： [IPx的粉红豹](https://space.bilibili.com/17856881)，简介：
+UP： [墨染玄黎](https://space.bilibili.com/406999290)，简介：
 
 ```
-热爱抵万难，开心万万岁
+v社什么时候删除smoker这个特感啊
 ```
 
-## [“我只能偷偷的想你 只能偷偷看着你”](https://www.bilibili.com/video/BV17hwwzoEd5)
+## [为什么卖饮料的可以干碎法拉利和奔驰？拆解奥地利Redbull用1美元撬动60亿的资本阳谋](https://www.bilibili.com/video/BV14hwyzoEQF)
 
-![“我只能偷偷的想你 只能偷偷看着你”](images/69bc3e29b5caf.png)
+![为什么卖饮料的可以干碎法拉利和奔驰？拆解奥地利Redbull用1美元撬动60亿的资本阳谋](images/69bf892d21468.png)
 
-```
-“我只能偷偷的想你 只能偷偷看着你”
 ```
+在代表人类汽车工业最高结晶、资金消耗最为恐怖的F1赛场上，一家主业仅仅是卖饮料的公司，凭什么能把法拉利、奔驰这些百年车企按在地上摩擦 ？
 
-UP： [三点半官方](https://space.bilibili.com/3546872622877434)，简介：
-
+参考资料：
+[01] Communiqué du Conseil de la Concurrence relatif au projet de concentration qu…… / CONSEIL DE LA CONCURRENCE
+[02] Annual Report 2025 / Mercedes-Benz Group
+[03] FORMULA 1 FINANCIAL REGULATIONS / Fédération Internationale de l’Automobile
+[04] Stewart sells up for £100m / BBC
+[05] Jaguar Announces Formula One Plans / ATLAS F1
+[06] Jaguar get a lifeline, to stay on track / The Telegraph
+[07] Jaguar exit puts other teams on the brink / The Guardian
+[08] Red Bull snaps up Jaguar F1 team / BBC
+[09] Newey makes shock Red Bull move / BBC
+[10] Honda to quit Formula 1 after end of the 2021 season / Sky
+[11] Red Bull Partner Generates $1bn In TV Exposure / Sport Industry
+[12] Revealed: The $2.3 Billion Red Bull Has Poured Into F1 / Forbes
+[13] How Mercedes & Red Bull Use F1 to Build Global Brand Loyalty / unpauzed
+[14] Brand Beyond The Wings: From Beverage to Billion-Dollars Media Empire. / Medium
+[15] The Truth Behind F1's Budget Cap / GoToTheGrid
+[16] Formula 1’s Most Valuable Teams 2025 / Forbes
+[17] Liberty Media Corporation Agrees to Acquire Formula One / Liberty Media
+[18] Red Bull name tech firm Oracle as title sponsor in $500m deal / ESPN
+[19] Perplexity tried to sponsor an F1 team — but got blocked by a bigger tech company / The Verge
+[20] Cadillac Will Pay $450 MillionAnti-Dilution Fee To Join Formula 1 / Autoweek
+[21] How Mercedes Made the Most Efficient Racing Engine Ever / Road Track
+[22] Renault eye swift progress despite 100bhp deficit to Mercedes / Sky
+[23] Red Bull to split with Renault at end of 2018 season / BBC
+[24] Honda to Supply F1 Power Units to Red Bull Racing / Honda
+[25] McLaren-Honda split: 10 defining moments of the failed partnership / Sky
 ```
-三点半官方B站账号  可投稿剧本/真实故事
-梦想五百万粉丝！107/500
-严禁抄袭
-```
-
-## [【porushi】ブレインロット　踊ってみた【原创振付】](https://www.bilibili.com/video/BV14jwizNE8H)
 
-![【porushi】ブレインロット　踊ってみた【原创振付】](images/69bc3e29b73b3.png)
+UP： [空山猎人](https://space.bilibili.com/3493108557809994)，简介：
 
-UP： [porushi](https://space.bilibili.com/2081618871)，简介：
-
 ```
-我刚开始学习中文，无法回复
-但是我正在翻译机上阅读一条消息。
-感谢您的收看。
-Weibo：porushi_8
-
+研究全球资本流动，跟踪前沿科技趋势。一个有15年留学经验，毕业于NTU CS的野生宏观观察员。
 ```
 
-## [【周深｜MV】电影《挽救计划》中文主题曲《修星星的人》](https://www.bilibili.com/video/BV1bmwRzdEGM)
+## [60万双爆闪ASh12，赛级嘉豪专武](https://www.bilibili.com/video/BV1xFAFzPEHG)
 
-![【周深｜MV】电影《挽救计划》中文主题曲《修星星的人》](images/69bc3e29bb3cd.png)
+![60万双爆闪ASh12，赛级嘉豪专武](images/69bf89445cb6c.png)
 
 ```
-跟随周深的歌声，在浩渺宇宙间邂逅外星“队友”，每一颗“星星”都值得被守护
+ASh-12战斗步枪-烽火地带-6JFHNAO013VNM42LSG1P3
+根据自己条件/喜好选择镜子，爆闪，弹匣
 ```
 
-UP： [周深工作室](https://space.bilibili.com/3546694058773380)
+UP： [叶1L](https://space.bilibili.com/512015727)
 
-## [人狼排名惨淡收尾。](https://www.bilibili.com/video/BV1m1wCztEQH)
-
-![人狼排名惨淡收尾。](images/69bc3e2a568d5.png)
-
-```
-如题。
-```
+## [磷虾为什么突然爆火？不光磷虾油，还有三文鱼！地球上最大的动物蓝鲸，竟然因南极磷虾而生！看磷虾如何改变这个世界……](https://www.bilibili.com/video/BV1sYAjz1Eao)
 
-UP： [我是影Sir](https://space.bilibili.com/242020511)，简介：
+![磷虾为什么突然爆火？不光磷虾油，还有三文鱼！地球上最大的动物蓝鲸，竟然因南极磷虾而生！看磷虾如何改变这个世界……](images/69bf8944dc96f.png)
 
 ```
-真人配音辣条音，更新日历见主页公告，日常：@小吴和阿四
+海洋里到底有多少磷虾？光南极磷虾一个物种竟然就有5亿吨！它也是地球上生物量最大的多细胞生物！如果没有磷虾的话，蓝鲸很可能根本不会出现，海洋生态和地球环境可能也会发生改变！所以可以说磷虾是海洋里必不可少的动物。然而，因为人们对磷虾油和三文鱼的需求持续增长，磷虾的捕捞量也创下了历史新高，这对南极的野生动物到底有多大影响？另外，气候变暖和海洋酸化的趋势也是磷虾面临的巨大威胁，5亿吨可能并没有想象中那么安全！
 ```
-
-## [再现人字拖大佬，四位阿sir围捕失利？](https://www.bilibili.com/video/BV1YKwBzSEFJ)
-
-![再现人字拖大佬，四位阿sir围捕失利？](images/69bc3e2b48674.png)
 
-UP： [争取最后的自由](https://space.bilibili.com/1745143606)，简介：
+UP： [老肉杂谈](https://space.bilibili.com/510941798)，简介：
 
 ```
-谢谢大家的支持 
+老肉杂谈在B站上唯一的官方账号！如假包换，童叟无欺！
 ```
-
-## [美以入侵伊朗，西方为何应者寥寥？加拿大总理已把答案说透了！](https://www.bilibili.com/video/BV1ArwvzFELz)
-
-![美以入侵伊朗，西方为何应者寥寥？加拿大总理已把答案说透了！](images/69bc3e2b4a37c.png)
-
-UP： [张维为](https://space.bilibili.com/1458767615)
 
-## [【终末地】1.1版本超级武陵毕业基建！拆分合一自由选择？](https://www.bilibili.com/video/BV1SewqzrEyq)
+## [循环歌单|【海屿你】|“哪有猎人会分享自己的食物”](https://www.bilibili.com/video/BV18ywRzZEr7)
 
-![【终末地】1.1版本超级武陵毕业基建！拆分合一自由选择？](images/69bc3e2b4b926.png)
+![循环歌单|【海屿你】|“哪有猎人会分享自己的食物”](images/69bf896e34568.png)
 
 ```
-毕业基建
-主基地右上：EF01A67u3O375EE29ieO
-主基地右下：EF0170i8o4oi25o1O0Ai
-主基地左：EF01u28U7a781078AoOU
-
-副基地右：EF018OIei6iI914oUI73
-副基地左：EF016u02EeE0i7e0O83e
-息壤肥料插件：EF01E750aIa5uo9639Ia
-
-模块化蓝图
-通用赤铜零件：EF01I43AU0U3a9Ui5o08
-
-优质芽针针剂：EF013EouUI12ia920579
-12x32 290电力
-
-中容武陵电池上：EF01U9eAui56oO2i7Oa8
-中容武陵电池下：EF01I43oi80579aA5o08
-34x50 1200电力
-
-赤铜装备原件：EF01o5u8e39OU6o3IieO
-39x26 685电力
-
-红装自备息壤：EF018OI37u6EA155UI73
-12x16 165电力
-感谢@幻某冰  帮忙做基建
+木偶制作：我自己
 ```
 
-UP： [MR流星飞](https://space.bilibili.com/272882289)，简介：
+UP： [蛋某人音乐](https://space.bilibili.com/423517587)，简介：
 
 ```
-明日方舟术师特种职业热爱玩家，仙术杯#5冠军队长，开发集成战略术特核心思路，保持热情，不忘理想
+路就在脚下
 ```
 
-## [TPE Roller hockey](https://www.bilibili.com/video/BV1McwrzDERn)
+## [【断网补全计划126】AI辅助治好癌症，企鹅管理员，最难喝的老北京豆汁，刀盾感应，手术铁人五项，商务拳击，上传果蝇大脑，雪山狐狸现实版](https://www.bilibili.com/video/BV1fgAEzuEGi)
 
-![TPE Roller hockey](images/69bc3e2b92d91.png)
+![【断网补全计划126】AI辅助治好癌症，企鹅管理员，最难喝的老北京豆汁，刀盾感应，手术铁人五项，商务拳击，上传果蝇大脑，雪山狐狸现实版](images/69bf896e35dc7.png)
 
-UP： [CORTIS_BIGHIT](https://space.bilibili.com/3546908043774464)，简介：
+UP： [瞎问虾猜丶](https://space.bilibili.com/646732586)，简介：
 
 ```
-BIGHIT MUSIC 旗下男子组合 CORTIS
+赛博史官，记录互联网每周发生的梗和热点。
 ```
 
-## [歌剧老师锐评单依纯、蔡徐坤、方大同mv](https://www.bilibili.com/video/BV1tcwrzDEzM)
+## [熬油，香香肉饼进了老王肉肉肚子还带着铁板烧溜溜缝缝，但是这缝有点大得吃两份！](https://www.bilibili.com/video/BV1XJAEzAEfB)
 
-![歌剧老师锐评单依纯、蔡徐坤、方大同mv](images/69bc3e2b95eb7.png)
+![熬油，香香肉饼进了老王肉肉肚子还带着铁板烧溜溜缝缝，但是这缝有点大得吃两份！](images/69bf896e377c7.png)
 
 ```
-歌剧老师锐评单依纯、蔡徐坤、方大同mv
+来到了北京，您猜怎么着？
+老王的肉肚子难受的直叫唤，只能用肉肉啊肉肉啊肉肉来解决！
 ```
 
-UP： [铁豆钢蛋](https://space.bilibili.com/379028503)，简介：
+UP： [老王在中国](https://space.bilibili.com/3537122973714533)，简介：
 
 ```
- 沈阳音乐学院声乐歌剧系。连续两年获得鲁艺杯金奖。2023年盛京大剧院举办独唱音乐会，现致力于声乐歌剧教学。近期盛京大剧院将举办独唱音乐会。
+伊拉克人在中国，油管:Iraqi in China 
 ```
-
-## [⚡️炸死那个卡莫纳人⚡️](https://www.bilibili.com/video/BV16swRzrEMy)
-
-![⚡️炸死那个卡莫纳人⚡️](images/69bc3e2b97289.png)
 
-```
-这逆码不是ai做的
-```
+## [二 维 马🐴✂️](https://www.bilibili.com/video/BV15ZAEzTEz1)
 
-UP： [爆脸战神](https://space.bilibili.com/3493084121794975)，简介：
+![二 维 马🐴✂️](images/69bf896e8c204.png)
 
-```
-致力于b站文艺复兴
 ```
+请输入文本
+▽地图
+Papercraft Adventure 作者：Jigarbov Productions
 
-## [【百万纪念】唱了大家好像很想听的《浸春芜》](https://www.bilibili.com/video/BV1BJwtzcEXq)
+▽视频制作
+录制：纪夫Junly
+剪辑：后期鱼
+字幕：纪夫Junly
 
-![【百万纪念】唱了大家好像很想听的《浸春芜》](images/69bc3e2c32b89.png)
-
-```
-原曲：塞壬唱片-MSR & 宋柏 & 十音 & 解伟苓 - 浸春芜
-翻唱：我
+嘿！大家好我是纪夫Junly！如果你喜欢我的视频点个赞或者订阅我都是可以的哦~ 请大家忽略或举报垃圾信息、负面言论和仇恨言论。我们只在这里分享快乐，谢谢大家，尽情享受~
 ```
 
-UP： [果宝Official](https://space.bilibili.com/3546569288714792)，简介：
+UP： [纪夫Junly](https://space.bilibili.com/19512037)，简介：
 
 ```
-个人势！果园火热经营中！没事儿喜欢唱点小歌r～
-每晚7-10点～
-（yt账号非本人，且无本人授权）
+哇，你发现我啦O▽O
 ```
-
-## [【aespa】色调破坏者](https://www.bilibili.com/video/BV1piw9zLEah)
-
-![【aespa】色调破坏者](images/69bc3e2c8e4cf.png)
-
-UP： [aespa](https://space.bilibili.com/2128487337)
 
-## [菲比：你 已 急 哭](https://www.bilibili.com/video/BV1qawozyEQ6)
+## [为什么船舶一旦发生海难，跳海就等于自尽？](https://www.bilibili.com/video/BV1Xpwvz3EYn)
 
-![菲比：你 已 急 哭](images/69bc3e2d2e141.png)
+![为什么船舶一旦发生海难，跳海就等于自尽？](images/69bf896e8f52a.png)
 
-```
-菲比角色歌日语版好好听！！！大家都去听！！！！
-```
-
-UP： [Lm海洋](https://space.bilibili.com/13021072)，简介：
+UP： [行者道荣](https://space.bilibili.com/3537118582278552)，简介：
 
 ```
-会制作菲比视频和lofi音乐视频，轮番更新
+说出吾名，吓汝一跳！
 ```
 
-## [“你知道就算大雨让整座城市颠倒 我会给你怀抱”](https://www.bilibili.com/video/BV1Ztw3zSEpG)
+## [科学家现场“算了算”太空电梯，撒贝宁：我给郭帆导演打个电话……](https://www.bilibili.com/video/BV1c3AFzoEam)
 
-![“你知道就算大雨让整座城市颠倒 我会给你怀抱”](images/69bc3e2d690bd.png)
-
-```
-“你知道就算大雨让整座城市颠倒 我会给你怀抱”
-```
+![科学家现场“算了算”太空电梯，撒贝宁：我给郭帆导演打个电话……](images/69bf896f0f23d.png)
 
-UP： [三点半官方](https://space.bilibili.com/3546872622877434)，简介：
+UP： [央视新闻](https://space.bilibili.com/456664753)，简介：
 
 ```
-三点半官方B站账号  可投稿剧本/真实故事
-梦想五百万粉丝！107/500
-严禁抄袭
+中央广播电视总台央视新闻官方账号
 ```
 

@@ -1,22 +1,37 @@
 # Bilibili推荐的视频
 
-## [3月23日 1小时前最新 萨克斯亲述：中国战略审议耗时2年，美国却靠总统临时“妄想”发动战争！1500亿关税掠夺民众，股市成自家提款机！](https://www.bilibili.com/video/BV1FxQfBwECd)
+## [这些离谱的魔改歌曲，这是一首比一首离谱！](https://www.bilibili.com/video/BV1WZwezbEXh)
 
-![3月23日 1小时前最新 萨克斯亲述：中国战略审议耗时2年，美国却靠总统临时“妄想”发动战争！1500亿关税掠夺民众，股市成自家提款机！](images/69c215a9b1251.png)
+![这些离谱的魔改歌曲，这是一首比一首离谱！](images/69c35981ba725.png)
+
+UP： [熊二排行](https://space.bilibili.com/3546955368105992)
+
+## [新纪元：“银翼铸就长空利剑，单发巨龙守护万里苍穹，它用实力完美诠释了何为争气机！”](https://www.bilibili.com/video/BV1ejQZBEEJy)
+
+![新纪元：“银翼铸就长空利剑，单发巨龙守护万里苍穹，它用实力完美诠释了何为争气机！”](images/69c35a0e38db3.png)
 
 ```
-欢迎点赞关注
+新纪元New world epoch
+共和国的崛起
+J-10“猛龙”战斗机
+BGM：Zouzei Funk (Over Slowed)
 ```
 
-UP： [YouTube金选观察](https://space.bilibili.com/3546891224614929)，简介：
+UP： [Empire胡汉斯](https://space.bilibili.com/1217566217)，简介：
 
 ```
-每天处理视频太多，难免有纰漏，如遇地图错误，画面出现领导人，内容抹黑国家之类，请在评论区指出，会立即处理。
+一个普通的男孩子...
+时不时更新各种超燃混剪
+感谢各位的支持！
 ```
 
-## [【世界周刊】当AI决定扣动扳机](https://www.bilibili.com/video/BV1m6QDBUEP5)
+## [一名自称为日本自卫队现役官员闯入我大使馆威胁杀人](https://www.bilibili.com/video/BV17EQzBNEBB)
 
-![【世界周刊】当AI决定扣动扳机](images/69c215a9b461c.png)
+![一名自称为日本自卫队现役官员闯入我大使馆威胁杀人](images/69c35a0f45a21.png)
+
+```
+这一事件再次反映出日本国内极右翼思潮和势力十分猖獗，“新型军国主义”成势为患，也暴露日本政府在历史、台湾等涉及中日关系重大核心问题上的错误政策流毒深重。
+```
 
 UP： [央视新闻](https://space.bilibili.com/456664753)，简介：
 
@@ -24,528 +39,432 @@ UP： [央视新闻](https://space.bilibili.com/456664753)，简介：
 中央广播电视总台央视新闻官方账号
 ```
 
-## [【AI】木之本樱唱「魔卡少女樱」主题曲《Catch You Catch Me》](https://www.bilibili.com/video/BV1EywkzgEJF)
+## [多睡觉，多睡觉，多睡觉](https://www.bilibili.com/video/BV1foQzBMESj)
 
-![【AI】木之本樱唱「魔卡少女樱」主题曲《Catch You Catch Me》](images/69c21608004fc.png)
-
-UP： [巴力Baali](https://space.bilibili.com/3207408)
-
-## [P1 也许是延迟最低的语音对话系统？](https://www.bilibili.com/video/BV1SBAVzyEwq)
-
-![P1 也许是延迟最低的语音对话系统？](images/69c2160801cb4.png)
-
-```
-也许是延迟最低的实时对话语音系统？？？
-25年是大模型从文字往全模态发展的一年，但是语音对话模型发布不足10款且难以商用，可挖掘空间还是很大的。
-我从25年5月开始构思，经历10个月研发，今天展示一下成果。预计下个月会发带有策略控制的完整版本。有兴趣的可以一起沟通。
-```
-
-UP： [刘立兼](https://space.bilibili.com/21057231)
-
-## [open-flow产品介绍](https://www.bilibili.com/video/BV1ZRwxztEca)
-
-![open-flow产品介绍](images/69c2160805168.png)
-
-```
-openflow是一款免费本地开源的语音输入工具
-类似于 Wispr / Typeless / 闪电说，特点就是开源免费，性能好，用rust语言编写。隐私性好，所有数据都在本地，不会上传到云服务器。
-https://github.com/jqlong17/open-flow
-```
-
-UP： [Ruska的AI实验室](https://space.bilibili.com/24750211)，简介：
-
-```
-这里是Ruska的AI实验室，欢迎交流～
-```
-
-## [分享我的Terminal方案](https://www.bilibili.com/video/BV1rDA3zZE9n)
-
-![分享我的Terminal方案](images/69c2160852897.png)
-
-```
-Ghostty+fish+starship yyds
-```
-
-UP： [智子实验室清洁管理员](https://space.bilibili.com/1804520390)
-
-## [你是什么样的脑子，能觉得这是银文啊？【明前奶绿】](https://www.bilibili.com/video/BV1vsApzjEZQ)
-
-![你是什么样的脑子，能觉得这是银文啊？【明前奶绿】](images/69c21608e65a2.png)
-
-```
-视频来源：2026.3.20 明前奶绿直播
-
-这不都是奶姐培养的好嘛
-
-明前奶绿 @明前奶绿
-```
-
-UP： [金色の闇Official](https://space.bilibili.com/1628088)，简介：
-
-```
-小橙世界第一可爱！工作繁忙，切片更新慢见谅
-贴吧：明前晚暗/微博：金色之闇Official/头像画师：我才不是助手
-```
-
-## [这可能是未来的 coding 方式（我们真的还需要 IDE 吗）](https://www.bilibili.com/video/BV1VDAAzoECF)
-
-![这可能是未来的 coding 方式（我们真的还需要 IDE 吗）](images/69c21608e7c45.png)
-
-```
-github：blueberrycongee/termcanvas
-
-欢迎 star，fork，watch
-```
-
-UP： [蓝莓南瓜粥](https://space.bilibili.com/91257942)，简介：
-
-```
-您的签名因为使用不适宜签名已被管理员清除
-```
-
-## [《黑客帝国4：矩阵重启》2021.科幻动作.中英双字.无删减高清.基努·里维斯](https://www.bilibili.com/video/BV18JA5z2Evn)
-
-![《黑客帝国4：矩阵重启》2021.科幻动作.中英双字.无删减高清.基努·里维斯](images/69c216093a36f.png)
-
-UP： [Teiketsu33](https://space.bilibili.com/1800505485)，简介：
-
-```
-同款最强画质+无删减
-```
-
-## [Gemini3.1做UI设计太强了！AI 一键生成液态玻璃 + 动态背景网站](https://www.bilibili.com/video/BV1QiwuziE17)
-
-![Gemini3.1做UI设计太强了！AI 一键生成液态玻璃 + 动态背景网站](images/69c216093d21f.png)
-
-```
-AI 不会取代设计师，但会用 AI 的设计师一定会取代不会用的。
-```
-
-UP： [芬达最快乐](https://space.bilibili.com/387779935)
-
-## [清楚樱花妹看黑人日语 N19ger级拥有者【叶绘花莲】](https://www.bilibili.com/video/BV1uYXFBLEnC)
-
-![清楚樱花妹看黑人日语 N19ger级拥有者【叶绘花莲】](images/69c2160940bcb.png)
-
-```
-请关注叶绘花莲！谢谢！
-@叶绘花莲_Karen 
-花莲直播间→https://live.bilibili.com/1880057560
-```
-
-UP： [花莲マジテンシ](https://space.bilibili.com/3493088819415698)，简介：
-
-```
-某花莲单推人的小号  时不时发些切片和二创
-```
-
-## [特朗普：已与伊朗对话，伊朗：不存在对话](https://www.bilibili.com/video/BV1j7XFBxEJX)
-
-![特朗普：已与伊朗对话，伊朗：不存在对话](images/69c21609cbba9.png)
-
-UP： [央视新闻](https://space.bilibili.com/456664753)，简介：
-
-```
-中央广播电视总台央视新闻官方账号
-```
-
-## [【铁电u盘】全球第一支铁电u盘，FeRAM存储技术，数据永不丢失](https://www.bilibili.com/video/BV1c1QZBbEMe)
-
-![【铁电u盘】全球第一支铁电u盘，FeRAM存储技术，数据永不丢失](images/69c21609cd57f.png)
-
-```
-如果你对这个项目感兴趣，欢迎支持(*´∀ ˋ*)
-众筹项目位于“摩点”APP，或者微信小程序“摩点”，搜索“铁电u盘”即可。
-项目分享链接：
-https://m.modian.com/idea/12827?utm_source=Appshare&utm_content=1010434195&utm_term=12827&utm_campaign=idea
-
-普通U盘采用的闪存技术依靠电荷存储，多年之后，电荷流失会导致文件无法读取。里面存储的数据也随之丢失无法恢复。而这对于一些关键数据是致命的。
-
-而铁电存储技术，利用铁电晶体的极化状态来存储数据。它拥有：
-超长寿命： 数据留存时间远超普通闪存，理论上可达上百年。
-原子级稳定性： 不受电荷流失影响，抗辐射、抗电磁干扰。
-近乎无限的耐用性： 支持高达千亿次以上的读写循环，而普通U盘仅为数千次。
-
-存储容量：
-目前铁电U盘的存储容量在10K-2M之间。
-
-为什么这么小？
-
-铁电存储（FeRAM）目前主要用于深空探索等嵌入式领域，从未被用于民用U盘。它的读写耐久性和数据留存能力远超NAND闪存，但受限于物理结构，单片容量天然较小，且成本极高（1M铁电存储的成本约等于1T普通闪存）。
-
-这个空间大小对于重要信息完全足够，因为它能够装下：
-几张照片
-几个文档
-
-这就是铁电U盘要做的，不是让你存更多，而是让你存得更放心。
-```
-
-UP： [cIoseAI](https://space.bilibili.com/176451170)，简介：
-
-```
-个性签名
-```
-
-## [『💗牛野rumu💗』日本邓紫牛破防了，62°酒？人参果？人的金果？我小盆友？](https://www.bilibili.com/video/BV1zJQRBUEgH)
-
-![『💗牛野rumu💗』日本邓紫牛破防了，62°酒？人参果？人的金果？我小盆友？](images/69c21609cec32.png)
-
-```
-【直播回放】【b限】新年快乐！ 2026年02月17日22点场
-BV1GmZ1BcEaT
-牛新作：BV1JsZTBaEcz
-```
-
-UP： [时尚到底-Channel](https://space.bilibili.com/112587138)，简介：
-
-```
-鉴赏音乐游戏剧情 玩主机街机PC  分享vtuber外国人反应 REACTION 
-```
-
-## [花了四个月写了一个本地生成动画的软件](https://www.bilibili.com/video/BV1cocZzWEkv)
-
-![花了四个月写了一个本地生成动画的软件](images/69c21609d06f4.png)
-
-```
-花了四个月写了一个本地生成动画的软件，一个完美切中当下创作者痛点的生产力工具
-```
-
-UP： [超灵感illli](https://space.bilibili.com/490796926)，简介：
-
-```
-阿尔索尔想分享乐趣
-```
-
-## [怎麼有45P混進來了啦！Miko進行另類的「聖地巡禮」 讓偶像來這種地方真的沒問題嗎w【さくらみこ/櫻巫女】【hololive中文/精華/翻譯】](https://www.bilibili.com/video/BV19EATzPEeh)
-
-![怎麼有45P混進來了啦！Miko進行另類的「聖地巡禮」 讓偶像來這種地方真的沒問題嗎w【さくらみこ/櫻巫女】【hololive中文/精華/翻譯】](images/69c2160a2ad0b.png)
-
-```
-【直播來源】
-【 ぽこあ ポケモン】ストーリークリア目前なのでクリアする！そしてリスナー街訪問する！【ホロライブ/さくらみこ】
-https://youtu.be/V-Kc-3odJiw
-
-Dar烤肉!
-https://www.youtube.com/@darbbq
-```
-
-UP： [Dar烤肉](https://space.bilibili.com/395955584)，简介：
-
-```
-Dar烤肉!https://www.youtube.com/@darbbq開始在b站同步上傳了 喜歡我的烤肉的話可以追蹤喔 感謝
-```
-
-## [外交部不予评论日本网民非议高市](https://www.bilibili.com/video/BV1dRQZBHENx)
-
-![外交部不予评论日本网民非议高市](images/69c2160a2cd76.png)
-
-```
-今日，外交部发言人林剑主持例行记者会。有记者就日本首相访美相关内容提问。林剑表示，我们注意到一些日本媒体、专家和民众对高市早苗此次访美的观点，包括被当面提及日本偷袭珍珠港、在参观“总统星光大道”时的反应等等。对于日本网民对此访的各种非议，我不予评论。美日发展双边关系应有利于地区和平稳定，不应针对第三国，或损害他国利益。
-```
-
-UP： [新华社](https://space.bilibili.com/473837611)，简介：
-
-```
-我是稳中带皮皮中有稳稳得一皮的鲜花舍。本社专营各种新闻报道，欢迎各位选购。
-```
-
-## [未来AI能完全去除日本片里的马赛克吗？](https://www.bilibili.com/video/BV1k1AuzWEPu)
-
-![未来AI能完全去除日本片里的马赛克吗？](images/69c2160a2e4b8.png)
+![多睡觉，多睡觉，多睡觉](images/69c35a0f94e4b.png)
 
 ```
 -
 ```
 
-UP： [地狱剪片师](https://space.bilibili.com/3461578215131430)，简介：
+UP： [平原公子](https://space.bilibili.com/11731157)，简介：
 
 ```
-导演、编剧、剪辑师、思想家、哲学家、伟大的艺术家。
+我说了就等于你说了
 ```
 
-## [樱花妹：“破防了，这个直播间还有白子吗”【真红莉爱】](https://www.bilibili.com/video/BV1A1A3zAE25)
+## [胡彦斌 陈粒《小半》「一粒」live版](https://www.bilibili.com/video/BV1wkwyznEbd)
 
-![樱花妹：“破防了，这个直播间还有白子吗”【真红莉爱】](images/69c2160a3027b.png)
-
-```
-@真红莉爱Official 
-真红莉爱Official:  https://space.bilibili.com/1485277312
-```
-
-UP： [时缘QAQ](https://space.bilibili.com/667545209)
-
-## [几乎跪着读完了Google新发布的AI Agent](https://www.bilibili.com/video/BV1xCAwzkEyf)
-
-![几乎跪着读完了Google新发布的AI Agent](images/69c2160ac7ff4.png)
+![胡彦斌 陈粒《小半》「一粒」live版](images/69c35a112afad.png)
 
 ```
 -
 ```
 
-UP： [宝藏女嗨沈幼楚](https://space.bilibili.com/1297136809)，简介：
+UP： [陈粒](https://space.bilibili.com/20107592)
+
+## [⚡️⚡️我 的 刀 盾⚡️⚡️](https://www.bilibili.com/video/BV1hyQoBgEGs)
+
+![⚡️⚡️我 的 刀 盾⚡️⚡️](images/69c35a1188f7f.png)
 
 ```
-资料自取管组工~呺：航海王编程
+我的刀盾变身计划！！！！！
+男配音：@锝钴拉老师  
+女配音：@名前桑  
+依旧是IMAX      依旧尿裤子     依旧正在热映
 ```
 
-## [用visual studio 2022演奏《起风了》，效果简直炸裂……](https://www.bilibili.com/video/BV1L7wvz1EVR)
-
-![用visual studio 2022演奏《起风了》，效果简直炸裂……](images/69c2160baafc3.png)
-
-UP： [编程技术学习](https://space.bilibili.com/3546603222731571)，简介：
+UP： [瑄羽猫](https://space.bilibili.com/431233688)，简介：
 
 ```
-学不好就润
-```
-
-## [正经分析：管萝莉叫妈妈对其身心发育有什么负面影响？](https://www.bilibili.com/video/BV1e5wyzBERV)
-
-![正经分析：管萝莉叫妈妈对其身心发育有什么负面影响？](images/69c2160bacc07.png)
+我是瑄（xuan)羽猫（作品不允许转载）
+ 
+配音？赛博新闻？美式预告？爽到尿裤子？
 
 ```
-这种题材加进社谈合集也太“丢人”了。
-```
 
-UP： [嘟嘟王HD](https://space.bilibili.com/236105621)，简介：
+## [和田薫《穿越时空的思念（《犬夜叉：超越时代的思念》ost）》百万豪装录音棚大声听](https://www.bilibili.com/video/BV1yrQzBEEdq)
 
-```
-历史 游戏 政治 音乐 文化 绘画 文学 写作 艺术 时事 动漫 军事 考据 设计 哲学 心理 博物 —— 我会成为成分最复杂的UP主！
-```
-
-## [樱花妹lulu成功融入新疆人没被发现 4个新疆老乡欢乐互动【雫るる】](https://www.bilibili.com/video/BV1fvAHzUE8W)
-
-![樱花妹lulu成功融入新疆人没被发现 4个新疆老乡欢乐互动【雫るる】](images/69c2160bae69e.png)
+![和田薫《穿越时空的思念（《犬夜叉：超越时代的思念》ost）》百万豪装录音棚大声听](images/69c35a118a7e7.png)
 
 ```
-如题
+《穿越时空的思念》是日本作曲家和田薰为动画电影《犬夜叉：超越时代的思念》创作的同名主题曲。
 
-
-关注雫lulu，雫るる_Official主页：https://space.bilibili.com/387636363
-素材来源： 2026.3.20雫るる直播
+录音设备： 
+话筒：Neumann M149 tube Pair 
+调音台：SSL Duality Delta Pro Station 
+工作站：PT
 ```
 
-UP： [白日梦想家IxY](https://space.bilibili.com/3493146507873056)，简介：
+UP： [JLRS-LeoFM](https://space.bilibili.com/3493093607213343)，简介：
 
 ```
-模型佬 | 胶佬 | 整活
+欢迎Hi-Fi&amp;汽车&amp;专业音响试听、国乐、合唱团、音乐改编、原创音乐、同期录音、全景声混录等声音相关的一切合作！
 ```
 
-## [请大家即兴表演吧，结果已然注定，所以至少让过程再有趣些](https://www.bilibili.com/video/BV11TPgzAEdj)
+## [华强买瓜，但过于学术](https://www.bilibili.com/video/BV1rAQqBqE6A)
 
-![请大家即兴表演吧，结果已然注定，所以至少让过程再有趣些](images/69c2160bb19bb.png)
+![华强买瓜，但过于学术](images/69c35a132fd84.png)
 
-```
-请大家即兴表演吧，结果已然注定，所以至少让过程再有趣些
-```
+UP： [一起座谈会](https://space.bilibili.com/3966122)
 
-UP： [由友及朋PeersFriend](https://space.bilibili.com/442717025)，简介：
+## [特朗普杀了他全家！他会当伊朗张学良吗？【乌鸦校尉】](https://www.bilibili.com/video/BV1CCQqBuEt8)
 
-```
-落魄谷中寒风吹，春秋蝉鸣少年归，遇事不决可问春风UP是03玩家，主玩战双和鸣潮…让我们在故事里相见。感谢关注，you很有眼光ദ്ദി˶•̀֊
-```
-
-## [【BD1080P】归还者的魔法要特别 1-12话全集](https://www.bilibili.com/video/BV1nYAGzFEc9)
-
-![【BD1080P】归还者的魔法要特别 1-12话全集](images/69c2160c02a43.png)
-
-UP： [晓月の诗](https://space.bilibili.com/3493112693394137)，简介：
+![特朗普杀了他全家！他会当伊朗张学良吗？【乌鸦校尉】](images/69c35a142be7e.png)
 
 ```
-重铸动画区昔日荣光。
+本来伊朗都快投了，懂王神操作让伊朗各种反推
 ```
 
-## [『💗NoWorld💗/熟肉』AI日本千金大小姐中文讲冷笑话！【NoWorld/NoiR】](https://www.bilibili.com/video/BV1GXQ9BMEyv)
-
-![『💗NoWorld💗/熟肉』AI日本千金大小姐中文讲冷笑话！【NoWorld/NoiR】](images/69c2160c04472.png)
+UP： [乌鸦校尉CaptainWuya](https://space.bilibili.com/521249172)，简介：
 
 ```
-Noir作品：
-异世界宝石谭
-BV1zSJGzKEsh
-【原创曲】Rain【NoWorld/NoiR】 BV13A1aYcE2L
-【春猿火】日文翻唱《magnet / minato(流星P)》covered by 春猿火×ヰ世界情緒
-BV15x1ZY3E1e
-C104】新专辑试听【NoWorld/NoiR】
-BV14w4m1k7cP
-代表表作品 赛博朋克：边缘行者
+广告合作：rhymelov;“帽子王”乌鸦校尉，必须周更！
 ```
 
-UP： [时尚到底-Channel](https://space.bilibili.com/112587138)，简介：
+## [儿子同学来家做客，做个“虎皮鸡爪”趁着机会，好好盘问儿子在学校情况](https://www.bilibili.com/video/BV15JQqBdEdi)
+
+![儿子同学来家做客，做个“虎皮鸡爪”趁着机会，好好盘问儿子在学校情况](images/69c35a142d7dd.png)
 
 ```
-鉴赏音乐游戏剧情 玩主机街机PC  分享vtuber外国人反应 REACTION 
+儿子同学来家做客，做个“虎皮鸡爪”趁着机会，好好盘问儿子在学校情况
 ```
 
-## [请听题：狂三和美九谁更好色](https://www.bilibili.com/video/BV1mUwuztEE3)
+UP： [胖龙的小生活](https://space.bilibili.com/649661652)，简介：
 
-![请听题：狂三和美九谁更好色](images/69c2160c08795.png)
+```
+简简单单，过好每一天
+```
+
+## [十二星座女战士变身特效](https://www.bilibili.com/video/BV1g4QZBrEsA)
+
+![十二星座女战士变身特效](images/69c35a142f462.png)
 
 ```
 -
 ```
 
-UP： [天空与茉莉的电台](https://space.bilibili.com/3690970279315659)，简介：
+UP： [UE小小攸](https://space.bilibili.com/675482980)，简介：
 
 ```
-关注我，让你对二次元保持热爱。
-```
-
-## [首次实射舰空导弹全部命中！“万吨大驱”南昌舰珍贵画面公开](https://www.bilibili.com/video/BV1WDAszKEX9)
-
-![首次实射舰空导弹全部命中！“万吨大驱”南昌舰珍贵画面公开](images/69c2160c8f56b.png)
-
-UP： [央视新闻](https://space.bilibili.com/456664753)，简介：
+熊厂老设计，正在学AI
+作品均为ai辅助设计的原创作品，禁搬运
 
 ```
-中央广播电视总台央视新闻官方账号
-```
 
-## [东京时装秀](https://www.bilibili.com/video/BV1LiNuzEEox)
+## [古偶男主，一款很新的人设寄生虫。《逐玉》写得最烂的，是报恩。](https://www.bilibili.com/video/BV1jCAGzpExN)
 
-![东京时装秀](images/69c2160c95252.png)
+![古偶男主，一款很新的人设寄生虫。《逐玉》写得最烂的，是报恩。](images/69c35a14307e1.png)
 
 ```
--
+你的报恩，我的报恩，有何不一样？
+对比《穆桂英挂帅》中的穆杨恋，《逐玉》的受众吃得真的很差。
+
+本期着力于论述以下几个问题：
+什么是寄生虫男主？
+一个清高贵公子为何不可能成为将军？
+古偶中被忽视的历史经济问题
+她的报恩，他的报恩，如何体现叙事的力量？
+
+本期思路与往期视频较为不同，写得非常解惑哈哈。如果有给观众朋友们带来启发和快乐，请多多点赞支持，感谢感谢～
 ```
 
-UP： [芋圆yaa](https://space.bilibili.com/3706929129982183)
-
-## [AI Agent为视频量身定制配乐&音效丨ACE Studio Video Composer](https://www.bilibili.com/video/BV15Uw6zfEoo)
-
-![AI Agent为视频量身定制配乐&音效丨ACE Studio Video Composer](images/69c2160ce34db.png)
+UP： [惜我余生](https://space.bilibili.com/485678570)，简介：
 
 ```
-Video Composer全新登场！内置的AI Agent具备视频理解能力，你可以通过对话式提示，让它为你的视频生成量身定制的配乐和音效。AI Agent能够“看见”每一个场景和剪辑，让音乐不仅贴合画面的情绪起伏，还能精准命中关键同步点。
+继续写，写到世界改变那天。禁止回应的演说，往往都驱使她开口。朋友们，缺位即存在。
 ```
 
-UP： [ACE_Studio](https://space.bilibili.com/290069256)，简介：
+## [一边反内卷，一边龙虾焦虑，时代为什么对年轻人如此割裂？](https://www.bilibili.com/video/BV1FYXcBNEuZ)
+
+![一边反内卷，一边龙虾焦虑，时代为什么对年轻人如此割裂？](images/69c35a149afcc.png)
 
 ```
-ACE Studio AI歌声合成引擎。下载地址：https://acestudio.cn/
+个人主页：http://www.benzi-studio.cc/
 ```
 
-## [【1080P高清修复】I"s Pure 全6话（桂正和）](https://www.bilibili.com/video/BV1LAAGzDE3D)
-
-![【1080P高清修复】I"s Pure 全6话（桂正和）](images/69c2160ce490b.png)
-
-UP： [晓月の诗](https://space.bilibili.com/3493112693394137)，简介：
+UP： [本子在隔壁](https://space.bilibili.com/593251783)，简介：
 
 ```
-重铸动画区昔日荣光。
+剑桥、投行、互联网、现居嘤国 | 个人成长、抵抗焦虑 | 课程「生命管理」| 合作交流wx：maguabd01
 ```
 
-## [【雫るる】樱花妹弹幕姬永远不关，天天都能看见lu民在直播间发癫](https://www.bilibili.com/video/BV1evQoBjEtd)
+## [从小就被称为天才的我，又怎么会射偏这一箭呢](https://www.bilibili.com/video/BV1CHQBBVEWV)
 
-![【雫るる】樱花妹弹幕姬永远不关，天天都能看见lu民在直播间发癫](images/69c2160d840fc.png)
-
-```
-https://live.bilibili.com/21013446?live_from=82002&spm_id_from=333.1007.top_right_bar_window_dynamic.content.click
-```
-
-UP： [d中d牌高钙片](https://space.bilibili.com/2744140)，简介：
-
-```
-最喜欢的是lulu，也会dd别的女人
-```
-
-## [【开源】工作交给AI，生活留给自己！BitFun CoWork：编码办公全能AI个人助手](https://www.bilibili.com/video/BV1SQcrzQEP3)
-
-![【开源】工作交给AI，生活留给自己！BitFun CoWork：编码办公全能AI个人助手](images/69c2160dcdbda.png)
-
-```
-【核心亮点：打破单一编程局限，构建双Agent架构】
-编码能力：兼容主流编程助手生态，处理复杂代码任务；
-办公能力：听懂自然语言，自动规划并执行繁琐事务。
-【为什么选择 BitFun？】
-开箱即用：配置简单，上手零门槛；
-技能丰富：内置多种Skill，覆盖多场景；
-生态兼容：无缝对接现有工具链；
-高度自定义：支持扩展，你想让它干啥就干啥。
-【三大硬核场景实测】
-MCP全网检索：自动聚合资讯，一键生成深度行业报告，告别手动搜集；
-智能PPT生成：直接解析代码仓库/文档，自动提炼大纲并构建演示文稿，汇报不再头秃；
-桌面文件整理：识别杂乱文件，按类型/日期智能分类归档，还你一个清爽桌面。
-【如何体验？】
-在 GitHub 开源社区搜索：BitFun
-【关于支持】
-如果觉得这个项目能帮到你，欢迎去仓库点个 Star 鼓励一下！你的支持是我们持续更新的最大动力。
-有任何Bug反馈或优化建议，也欢迎提 Issue 交流，一起把工具做得更好用。
-【项目链接】
-传送门已放在置顶评论及个人主页简介中，自取不谢！
-觉得好用的小伙伴，别忘了点赞、投币、收藏支持一下哦！
-#开源 #AI助手 #程序员 #效率工具 #自动化办公 #BitFun #黑科技 #把时间留给自己
-```
-
-UP： [毕方BitFun](https://space.bilibili.com/3546939463305329)，简介：
-
-```
-BitFun Platform全新高性能、轻量化、智慧化IDE技术平台
-https://github.com/GCWing/BitFun
-```
-
-## [小企鹅要不要？](https://www.bilibili.com/video/BV1gYAwzJEZU)
-
-![小企鹅要不要？](images/69c2160dd0a1a.png)
+![从小就被称为天才的我，又怎么会射偏这一箭呢](images/69c35a1533cf7.png)
 
 ```
 -
 ```
 
-UP： [_艺术家小泽](https://space.bilibili.com/349783135)，简介：
+UP： [小小嘉动画](https://space.bilibili.com/342168718)，简介：
 
 ```
-叫我小泽就好啦！
+三角洲动画制作中
 ```
 
-## [牢美：老中，我这萨德真的只是个区域防空系统，你信我啊啊啊啊！！！](https://www.bilibili.com/video/BV1RUw6zfEfA)
+## [好消息！中国又有重大发现](https://www.bilibili.com/video/BV1nGXwBqE3z)
 
-![牢美：老中，我这萨德真的只是个区域防空系统，你信我啊啊啊啊！！！](images/69c2160e7cccf.png)
+![好消息！中国又有重大发现](images/69c35a163164a.png)
+
+```
+记者从自然资源部获悉，我国新一轮找矿突破战略行动取得新成果。在四川省冕宁县牦牛坪矿区，我国发现世界第二大轻稀土矿。据介绍，在四川冕宁县牦牛坪矿区稀土矿资源储量核实勘查项目中，发现新增资源量为966.56万吨的稀土氧化物，增储超过300%，是全球在产稀土矿山资源储量世界第二。稀土氧化物广泛应用于磁性材料、荧光材料等领域，是现代工业、高端制造不可或缺的元素。（总台记者：李宁 吴天白）
+```
+
+UP： [央视军事](https://space.bilibili.com/46470268)，简介：
+
+```
+中央广播电视总台国防军事频道官方账号
+```
+
+## [仿生机器人-新皮肤已解锁（Origin F1）](https://www.bilibili.com/video/BV1xrQzBJEUm)
+
+![仿生机器人-新皮肤已解锁（Origin F1）](images/69c35a171988c.png)
 
 ```
 -
 ```
 
-UP： [坐在徐枫灿的直-20里笑](https://space.bilibili.com/1303171186)，简介：
+UP： [U航-首形科技](https://space.bilibili.com/3546653644556698)，简介：
 
 ```
-万粉北向拜冕旒
+首形科技创始人CEO 美国哥伦比亚大学博士（机器人学，人工智能）   yuhang-hu.com   生活类账号：U航
 ```
 
-## [伊朗会投降吗？古波斯文明早已给出答案](https://www.bilibili.com/video/BV1upNKz8EJ2)
+## [雪山救狐狸，但是农夫成功逆天改命](https://www.bilibili.com/video/BV1XoQdBGEWa)
 
-![伊朗会投降吗？古波斯文明早已给出答案](images/69c2160e8242f.png)
+![雪山救狐狸，但是农夫成功逆天改命](images/69c35a5a68e2c.png)
 
-```
-伊朗会不会投降？陈列在大英博物馆的古波斯文明和文物早就已经给出了答案。国际问题学者高志凯在英国的观察。 #伊朗会投降吗？
-```
-
-UP： [高志凯频道](https://space.bilibili.com/686491999)，简介：
+UP： [路人甲导演](https://space.bilibili.com/44359329)，简介：
 
 ```
-国际问题学者 苏州大学讲座教授  CGTN评论员
+不垂直，想到什么做什么。
 ```
 
-## [世界气象组织：地球能量失衡程度达新高](https://www.bilibili.com/video/BV1EmQdBJEsP)
+## [🐧我的情商堪比一根成年香蕉🐧](https://www.bilibili.com/video/BV1AZQoBaEeM)
 
-![世界气象组织：地球能量失衡程度达新高](images/69c2160eadc47.png)
-
-UP： [央视新闻](https://space.bilibili.com/456664753)，简介：
+![🐧我的情商堪比一根成年香蕉🐧](images/69c35a5a6aa60.png)
 
 ```
-中央广播电视总台央视新闻官方账号
+故事来源于生活
+实在没找到符合   说的道理   的文案，大家想听还是自己造文案硬加上了。所以说高情商预言模组在哪里安装？咕咕嘎嘎！！！
 ```
 
-## [威風堂々【Baelz生日2026】](https://www.bilibili.com/video/BV1ZUAtzPE19)
-
-![威風堂々【Baelz生日2026】](images/69c2160eaf0d3.png)
+UP： [盛夏度春风](https://space.bilibili.com/348580640)，简介：
 
 ```
-≪ReCOLOR 3D LIVE≫ Hakos Baelz Birthday Live 2026 + NEW 3D OUTFIT!
+难道我真是白吃的天才？
 ```
 
-UP： [wixifhenwmak](https://space.bilibili.com/3706930551851772)，简介：
+## [邻国军力系列：日本陆上自卫队 2026](https://www.bilibili.com/video/BV1XGAAzQEQ4)
+
+![邻国军力系列：日本陆上自卫队 2026](images/69c35a5bb1205.png)
 
 ```
-red spiderうまい
+内容中漏掉一款在研的"极超音速诱导弹"介绍，后面在空自中补。另外概述部分有切掉了几分钟
+```
+
+UP： [铁皮轮胎](https://space.bilibili.com/2027810996)，简介：
+
+```
+提供数据视角，立体观察全球军事格局。不提供立场，相比左右，更喜欢俯视。不辩证，尊重事实和逻辑，尽力在能力范围内还原军事动态真相。荣幸结识各位
+```
+
+## [这就是驯龙高手](https://www.bilibili.com/video/BV122QRBcEzF)
+
+![这就是驯龙高手](images/69c35a5bb4d27.png)
+
+UP： [国1铠南瓜](https://space.bilibili.com/338167021)，简介：
+
+```
+本人唯一账号
+```
+
+## [墓志里的五代十国女性，她们怎样度过自己的一生？](https://www.bilibili.com/video/BV16XA3z4E3U)
+
+![墓志里的五代十国女性，她们怎样度过自己的一生？](images/69c35a5bb6574.png)
+
+```
+参考文献：
+《旧唐书》《新唐书》《旧五代史》《新五代史》《宋史》《资治通鉴》《南唐书》
+仇鹿鸣、夏婧《五代十国墓志汇编》
+胡倩《五代墓志文研究》
+山口智哉、李宗翰、刘祥光、陈韵如《五代的文武僧庶》
+山口智哉、李宗翰、刘祥光、柳立言《世变下的五代女性》
+李悦《五代女性墓志铭研究》
+赤峰市博物馆、巴林左旗辽上京博物馆、巴林左旗文物管理所《内蒙古巴林左旗盘羊沟辽代墓葬》
+马凤磊《后唐德妃伊氏墓志铭释考》
+崔世平《后唐德妃墓志考释——兼论辽墓的“中朝轨式”》
+刘喆《新出〈大契丹国故后唐德妃伊氏玄堂志并铭〉考释》
+杜晓红、李宇峰《辽宁朝阳县发现辽代后晋李太后、安太妃墓志》
+薛翘《唐百胜军节度使江王乳母尚书杏氏墓铭》
+赵洋《〈唐代郡李使君故聂氏夫人墓志铭并序〉考释——论后唐的一个晋商家族》
+刘刚、池军、薛炳宏《江苏扬州杨吴李娀墓的考古发掘及出土墓志研究——兼及徐铉撰〈唐故泰州刺史陶公墓志铭〉》
+胡耀飞《杨吴政权代北家族的本土化——以〈李娀墓志〉所见雁门李氏为例》
+颜斌、曾帮杰《唐末五代韦毅家族史迹校补——以〈韦毅墓志〉为中心》
+福建省博物馆、福州市文物管理委员会《唐末五代闽王王审知夫妇墓清理简报》
+福建省博物馆《五代闽国刘华墓发掘报告》
+崔世平《五代闽国刘华墓再探讨》
+刘静贞《正史与墓志资料所映现的五代女性意象》
+刘静贞《女无外事？——墓志碑铭中所见之北宋士大夫社会秩序理念》
+```
+
+UP： [长河飞烟](https://space.bilibili.com/328359509)，简介：
+
+```
+历史学硕士、《陈说历史》播客主播
+基于史料与学术研究成果来讲述中国古代史
+尽量每周一更新
+```
+
+## [【断网补全计划127】九盾天窗，熊大快跑，杰伦新歌意外流出，公式仙人，万州马拉松，预制视频，龙虾后续](https://www.bilibili.com/video/BV1psQBB3Ev9)
+
+![【断网补全计划127】九盾天窗，熊大快跑，杰伦新歌意外流出，公式仙人，万州马拉松，预制视频，龙虾后续](images/69c35a5c5a533.png)
+
+UP： [瞎问虾猜丶](https://space.bilibili.com/646732586)，简介：
+
+```
+赛博史官，记录互联网每周发生的梗和热点。
+```
+
+## [张雪峰老师，一路走好。这些年曾写过好几篇与张雪峰老师有关的小文章，斯人已逝，哀悼](https://www.bilibili.com/video/BV1vuQyB1EGu)
+
+![张雪峰老师，一路走好。这些年曾写过好几篇与张雪峰老师有关的小文章，斯人已逝，哀悼](images/69c35a5c5c111.png)
+
+```
+-
+```
+
+UP： [蔡雅奇刑法](https://space.bilibili.com/470995011)，简介：
+
+```
+一个爱跑马拉松的刑法老师、刑辩律师
+```
+
+## [Chill LoFi | 🌙晚安大小姐](https://www.bilibili.com/video/BV1r3QXBjE3p)
+
+![Chill LoFi | 🌙晚安大小姐](images/69c35a5c611d6.png)
+
+```
+AUGHHHHHHHHHH
+```
+
+UP： [TØm](https://space.bilibili.com/7980111)，简介：
+
+```
+拖更中
+```
+
+## [【硬核】从骑兵连长到陈桥兵变，宋祖的奇幻漂流](https://www.bilibili.com/video/BV1sDQRBtEUz)
+
+![【硬核】从骑兵连长到陈桥兵变，宋祖的奇幻漂流](images/69c35a5d571ba.png)
+
+```
+本期视频内京娘、赵匡胤相关实机画面来自游戏《燕云十六声》，没想到有一天我还能打赵匡胤...
+
+1、史料中，赵匡胤之父赵弘殷的三十年履历为什么消失了？
+2、李嗣源死后的五代后半场，禁军的心有多野？
+3、郭荣为什么成了“柴荣”？
+4、赵匡胤人生最重要的战役是哪一战？
+5、郭荣为什么要搞殿前都的“后周严选”？
+6、为什么年纪轻资历浅的赵匡胤被任命为了禁军选练一把手？
+7、战淮南，赵匡胤是怎样成为了后周军界第三人？
+8、后周北伐，当时收回燕云十六州的机会有多好？
+9、郭荣的急病对于整个中国历史意味着什么？
+10、“点检做天子”，背后的阴谋黑手更可能是谁？
+11、赵匡胤赶上了怎样蛇吞象的史诗级窗口？
+12、为什么郭荣要选赵匡胤继任殿前都点检？
+13、陈桥兵变的过程是怎样的？
+```
+
+UP： [渤海小吏](https://space.bilibili.com/504934876)，简介：
+
+```
+和小吏一起挖掘千年不变的人性密码
+《渤海小吏的封建脉络百战》历史全集已全部出版
+推广橱窗中是咱自己的书，感恩您的厚爱与捧场
+```
+
+## [【ITZY】YUNA “Ice Cream” M/V](https://www.bilibili.com/video/BV1HrQZBwExu)
+
+![【ITZY】YUNA “Ice Cream” M/V](images/69c35a5d58726.png)
+
+UP： [ITZY](https://space.bilibili.com/1185017133)，简介：
+
+```
+All in us! 大家好，我们是ITZY !
+```
+
+## [以为大爷在钓鱼，其实烤得一手好鸡…](https://www.bilibili.com/video/BV1xqQqB5EwE)
+
+![以为大爷在钓鱼，其实烤得一手好鸡…](images/69c35a5eaaaeb.png)
+
+```
+-
+```
+
+UP： [野文不懂吃](https://space.bilibili.com/3546689080133740)，简介：
+
+```
+寻找美食和故事
+平凡的烟火，也许值得关注和感受
+```
+
+## [这局队友太团结了，5个人一起抓对面牢玩家](https://www.bilibili.com/video/BV13JQdBBE6L)
+
+![这局队友太团结了，5个人一起抓对面牢玩家](images/69c35a5f51b8b.png)
+
+```
+这局队友太团结了，5个人一起抓对面牢玩家
+```
+
+UP： [磊哥游戏](https://space.bilibili.com/268941858)，简介：
+
+```
+我是磊锋
+```
+
+## [混蛋！没道理嘛，集体诈骗【网红面包试吃】](https://www.bilibili.com/video/BV15dQZBQEsX)
+
+![混蛋！没道理嘛，集体诈骗【网红面包试吃】](images/69c35a5f9e1bd.png)
+
+```
+混蛋！没道理嘛，集体诈骗【网红面包试吃】
+```
+
+UP： [路由器LAN](https://space.bilibili.com/25135805)，简介：
+
+```
+一个美食开箱评测博主，两天一更，争取做到日更，更新时间10:00点连接路由器一起参与【钱包拯救计划】
+```
+
+## [踊り子(舞女) / Vaundy ：MUSIC VIDEO](https://www.bilibili.com/video/BV1pWNFzvEa7)
+
+![踊り子(舞女) / Vaundy ：MUSIC VIDEO](images/69c35a5fa1628.png)
+
+```
+踊り子 / Vaundy：MUSIC VIDEO
+それは魔法のような一目の恋
+ 
+Made in Vaundy_ART Work Studio
+```
+
+UP： [Vaundy](https://space.bilibili.com/3690971877345625)
+
+## [当美国女友来到了抗美援朝纪念馆…](https://www.bilibili.com/video/BV1soQoBwEyP)
+
+![当美国女友来到了抗美援朝纪念馆…](images/69c35a603b826.png)
+
+```
+-
+```
+
+UP： [Luca和Kim](https://space.bilibili.com/259349490)，简介：
+
+```
+和美国女友网恋10个月后 辞职奔现来美国餐馆打工
+女友也辞职从纽约搬来小镇一起工作生活
+26年签证结束带Kim回国
+感谢大家关注见证！
 ```
 
